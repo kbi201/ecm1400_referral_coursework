@@ -1,0 +1,18 @@
+{
+"API_KEY" : "09744b0b7cbe40609b6b36e224cdb969",
+"nation" : "England",
+"location" : "Exeter",
+"update intervals" : "",
+"config file location" : "/Users/kellyblanquita/Documents/referral_ecm1400_coursework/docs/",
+"keywords" : "Covid COVID-19 coronavirus",
+"data_structure" : {
+        "areaCode": "areaCode",
+        "areaName": "areaName",
+        "areaType": "areaType",
+        "date": "date",
+        "totalDeaths":"newDailyNsoDeathsByDeathDate",
+        "hospitalCases":"hospitalCases",
+        "newCasesByPublishDate": "newCasesByPublishDate"
+    },
+"api_metrics_numpull" : "7"
+}

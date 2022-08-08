@@ -1,0 +1,8066 @@
+[
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-13",
+    "totalDeaths": null,
+    "hospitalCases": 13741,
+    "newCasesByPublishDate": 171877
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-12",
+    "totalDeaths": null,
+    "hospitalCases": 13621,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-11",
+    "totalDeaths": null,
+    "hospitalCases": 13336,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-10",
+    "totalDeaths": null,
+    "hospitalCases": 12879,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-09",
+    "totalDeaths": null,
+    "hospitalCases": 12440,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-08",
+    "totalDeaths": null,
+    "hospitalCases": 12283,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-07",
+    "totalDeaths": null,
+    "hospitalCases": 11878,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-06",
+    "totalDeaths": null,
+    "hospitalCases": 11465,
+    "newCasesByPublishDate": 120170
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-05",
+    "totalDeaths": null,
+    "hospitalCases": 11049,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-04",
+    "totalDeaths": null,
+    "hospitalCases": 10658,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-03",
+    "totalDeaths": null,
+    "hospitalCases": 9956,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-02",
+    "totalDeaths": null,
+    "hospitalCases": 9632,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-07-01",
+    "totalDeaths": 21,
+    "hospitalCases": 9389,
+    "newCasesByPublishDate": 20731
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-30",
+    "totalDeaths": 28,
+    "hospitalCases": 8928,
+    "newCasesByPublishDate": 21732
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-29",
+    "totalDeaths": 40,
+    "hospitalCases": 8587,
+    "newCasesByPublishDate": 21428
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-28",
+    "totalDeaths": 37,
+    "hospitalCases": 8120,
+    "newCasesByPublishDate": 21415
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-27",
+    "totalDeaths": 39,
+    "hospitalCases": 7822,
+    "newCasesByPublishDate": 47332
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-26",
+    "totalDeaths": 42,
+    "hospitalCases": 7455,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-25",
+    "totalDeaths": 46,
+    "hospitalCases": 6973,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-24",
+    "totalDeaths": 31,
+    "hospitalCases": 6752,
+    "newCasesByPublishDate": 16489
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-23",
+    "totalDeaths": 37,
+    "hospitalCases": 6401,
+    "newCasesByPublishDate": 17481
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-22",
+    "totalDeaths": 48,
+    "hospitalCases": 6177,
+    "newCasesByPublishDate": 17202
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-21",
+    "totalDeaths": 31,
+    "hospitalCases": 6002,
+    "newCasesByPublishDate": 16432
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-20",
+    "totalDeaths": 37,
+    "hospitalCases": 5726,
+    "newCasesByPublishDate": 36452
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-19",
+    "totalDeaths": 32,
+    "hospitalCases": 5436,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-18",
+    "totalDeaths": 31,
+    "hospitalCases": 5183,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-17",
+    "totalDeaths": 31,
+    "hospitalCases": 5037,
+    "newCasesByPublishDate": 12065
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-16",
+    "totalDeaths": 37,
+    "hospitalCases": 5008,
+    "newCasesByPublishDate": 12080
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-15",
+    "totalDeaths": 37,
+    "hospitalCases": 4843,
+    "newCasesByPublishDate": 13401
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-14",
+    "totalDeaths": 26,
+    "hospitalCases": 4722,
+    "newCasesByPublishDate": 12031
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-13",
+    "totalDeaths": 25,
+    "hospitalCases": 4602,
+    "newCasesByPublishDate": 28249
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-12",
+    "totalDeaths": 33,
+    "hospitalCases": 4408,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-11",
+    "totalDeaths": 27,
+    "hospitalCases": 4257,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-10",
+    "totalDeaths": 29,
+    "hospitalCases": 4262,
+    "newCasesByPublishDate": 9217
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-09",
+    "totalDeaths": 18,
+    "hospitalCases": 4082,
+    "newCasesByPublishDate": 9741
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-08",
+    "totalDeaths": 28,
+    "hospitalCases": 4096,
+    "newCasesByPublishDate": 9298
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-07",
+    "totalDeaths": 24,
+    "hospitalCases": 4108,
+    "newCasesByPublishDate": 10240
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-06",
+    "totalDeaths": 34,
+    "hospitalCases": 4126,
+    "newCasesByPublishDate": 29155
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-05",
+    "totalDeaths": 23,
+    "hospitalCases": 3965,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-04",
+    "totalDeaths": 30,
+    "hospitalCases": 3835,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-03",
+    "totalDeaths": 20,
+    "hospitalCases": 3849,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-02",
+    "totalDeaths": 36,
+    "hospitalCases": 3841,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-06-01",
+    "totalDeaths": 23,
+    "hospitalCases": 3800,
+    "newCasesByPublishDate": 5313
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-31",
+    "totalDeaths": 39,
+    "hospitalCases": 4036,
+    "newCasesByPublishDate": 5802
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-30",
+    "totalDeaths": 40,
+    "hospitalCases": 4091,
+    "newCasesByPublishDate": 13590
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-29",
+    "totalDeaths": 19,
+    "hospitalCases": 4018,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-28",
+    "totalDeaths": 29,
+    "hospitalCases": 4013,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-27",
+    "totalDeaths": 36,
+    "hospitalCases": 4197,
+    "newCasesByPublishDate": 4661
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-26",
+    "totalDeaths": 37,
+    "hospitalCases": 4365,
+    "newCasesByPublishDate": 5293
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-25",
+    "totalDeaths": 25,
+    "hospitalCases": 4489,
+    "newCasesByPublishDate": 5810
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-24",
+    "totalDeaths": 37,
+    "hospitalCases": 4639,
+    "newCasesByPublishDate": 6352
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-23",
+    "totalDeaths": 50,
+    "hospitalCases": 5010,
+    "newCasesByPublishDate": 14592
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-22",
+    "totalDeaths": 41,
+    "hospitalCases": 5047,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-21",
+    "totalDeaths": 35,
+    "hospitalCases": 5065,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-20",
+    "totalDeaths": 52,
+    "hospitalCases": 5187,
+    "newCasesByPublishDate": 6003
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-19",
+    "totalDeaths": 25,
+    "hospitalCases": 5356,
+    "newCasesByPublishDate": 6704
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-18",
+    "totalDeaths": 37,
+    "hospitalCases": 5425,
+    "newCasesByPublishDate": 7388
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-17",
+    "totalDeaths": 55,
+    "hospitalCases": 5733,
+    "newCasesByPublishDate": 8102
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-16",
+    "totalDeaths": 50,
+    "hospitalCases": 6024,
+    "newCasesByPublishDate": 16903
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-15",
+    "totalDeaths": 58,
+    "hospitalCases": 6158,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-14",
+    "totalDeaths": 53,
+    "hospitalCases": 6147,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-13",
+    "totalDeaths": 62,
+    "hospitalCases": 6366,
+    "newCasesByPublishDate": 6511
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-12",
+    "totalDeaths": 50,
+    "hospitalCases": 6602,
+    "newCasesByPublishDate": 10874
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-11",
+    "totalDeaths": 57,
+    "hospitalCases": 7034,
+    "newCasesByPublishDate": 8036
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-10",
+    "totalDeaths": 79,
+    "hospitalCases": 7363,
+    "newCasesByPublishDate": 9751
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-09",
+    "totalDeaths": 69,
+    "hospitalCases": 7647,
+    "newCasesByPublishDate": 21712
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-08",
+    "totalDeaths": 71,
+    "hospitalCases": 7715,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-07",
+    "totalDeaths": 77,
+    "hospitalCases": 7768,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-06",
+    "totalDeaths": 84,
+    "hospitalCases": 8170,
+    "newCasesByPublishDate": 9405
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-05",
+    "totalDeaths": 69,
+    "hospitalCases": 8596,
+    "newCasesByPublishDate": 10311
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-04",
+    "totalDeaths": 77,
+    "hospitalCases": 8950,
+    "newCasesByPublishDate": 14596
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-03",
+    "totalDeaths": 79,
+    "hospitalCases": 9243,
+    "newCasesByPublishDate": 29029
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-02",
+    "totalDeaths": 87,
+    "hospitalCases": 9326,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-05-01",
+    "totalDeaths": 96,
+    "hospitalCases": 9355,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-30",
+    "totalDeaths": 89,
+    "hospitalCases": 9499,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-29",
+    "totalDeaths": 78,
+    "hospitalCases": 9938,
+    "newCasesByPublishDate": 9705
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-28",
+    "totalDeaths": 107,
+    "hospitalCases": 10432,
+    "newCasesByPublishDate": 10945
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-27",
+    "totalDeaths": 110,
+    "hospitalCases": 10965,
+    "newCasesByPublishDate": 13481
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-26",
+    "totalDeaths": 91,
+    "hospitalCases": 11320,
+    "newCasesByPublishDate": 13045
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-25",
+    "totalDeaths": 104,
+    "hospitalCases": 11992,
+    "newCasesByPublishDate": 35925
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-24",
+    "totalDeaths": 104,
+    "hospitalCases": 12083,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-23",
+    "totalDeaths": 120,
+    "hospitalCases": 12156,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-22",
+    "totalDeaths": 118,
+    "hospitalCases": 12883,
+    "newCasesByPublishDate": 15832
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-21",
+    "totalDeaths": 128,
+    "hospitalCases": 13392,
+    "newCasesByPublishDate": 18475
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-20",
+    "totalDeaths": 132,
+    "hospitalCases": 14164,
+    "newCasesByPublishDate": 20767
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-19",
+    "totalDeaths": 126,
+    "hospitalCases": 14607,
+    "newCasesByPublishDate": 93281
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-18",
+    "totalDeaths": 140,
+    "hospitalCases": 14183,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-17",
+    "totalDeaths": 133,
+    "hospitalCases": 14254,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-16",
+    "totalDeaths": 139,
+    "hospitalCases": 14335,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-15",
+    "totalDeaths": 139,
+    "hospitalCases": 14394,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-14",
+    "totalDeaths": 160,
+    "hospitalCases": 14955,
+    "newCasesByPublishDate": 27283
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-13",
+    "totalDeaths": 180,
+    "hospitalCases": 15399,
+    "newCasesByPublishDate": 29335
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-12",
+    "totalDeaths": 153,
+    "hospitalCases": 16131,
+    "newCasesByPublishDate": 31230
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-11",
+    "totalDeaths": 153,
+    "hospitalCases": 16442,
+    "newCasesByPublishDate": 75194
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-10",
+    "totalDeaths": 157,
+    "hospitalCases": 16039,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-09",
+    "totalDeaths": 142,
+    "hospitalCases": 15876,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-08",
+    "totalDeaths": 193,
+    "hospitalCases": 16366,
+    "newCasesByPublishDate": 33782
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-07",
+    "totalDeaths": 180,
+    "hospitalCases": 16600,
+    "newCasesByPublishDate": 38678
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-06",
+    "totalDeaths": 161,
+    "hospitalCases": 16587,
+    "newCasesByPublishDate": 42392
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-05",
+    "totalDeaths": 158,
+    "hospitalCases": 16552,
+    "newCasesByPublishDate": 41436
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-04",
+    "totalDeaths": 137,
+    "hospitalCases": 16466,
+    "newCasesByPublishDate": 122027
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-03",
+    "totalDeaths": 147,
+    "hospitalCases": 15989,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-02",
+    "totalDeaths": 166,
+    "hospitalCases": 15739,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-04-01",
+    "totalDeaths": 160,
+    "hospitalCases": 15966,
+    "newCasesByPublishDate": 60220
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-31",
+    "totalDeaths": 146,
+    "hospitalCases": 15648,
+    "newCasesByPublishDate": 62816
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-30",
+    "totalDeaths": 146,
+    "hospitalCases": 15632,
+    "newCasesByPublishDate": 74419
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-29",
+    "totalDeaths": 150,
+    "hospitalCases": 15411,
+    "newCasesByPublishDate": 64935
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-28",
+    "totalDeaths": 133,
+    "hospitalCases": 15170,
+    "newCasesByPublishDate": 183459
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-27",
+    "totalDeaths": 123,
+    "hospitalCases": 14465,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-26",
+    "totalDeaths": 126,
+    "hospitalCases": 13796,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-25",
+    "totalDeaths": 133,
+    "hospitalCases": 13842,
+    "newCasesByPublishDate": 63371
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-24",
+    "totalDeaths": 114,
+    "hospitalCases": 13602,
+    "newCasesByPublishDate": 79373
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-23",
+    "totalDeaths": 119,
+    "hospitalCases": 13248,
+    "newCasesByPublishDate": 85916
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-22",
+    "totalDeaths": 118,
+    "hospitalCases": 13060,
+    "newCasesByPublishDate": 74804
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-21",
+    "totalDeaths": 117,
+    "hospitalCases": 12753,
+    "newCasesByPublishDate": 188925
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-20",
+    "totalDeaths": 121,
+    "hospitalCases": 12070,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-19",
+    "totalDeaths": 119,
+    "hospitalCases": 11638,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-18",
+    "totalDeaths": 119,
+    "hospitalCases": 11595,
+    "newCasesByPublishDate": 68492
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-17",
+    "totalDeaths": 105,
+    "hospitalCases": 11346,
+    "newCasesByPublishDate": 75681
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-16",
+    "totalDeaths": 104,
+    "hospitalCases": 11010,
+    "newCasesByPublishDate": 76366
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-15",
+    "totalDeaths": 98,
+    "hospitalCases": 10877,
+    "newCasesByPublishDate": 64313
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-14",
+    "totalDeaths": 111,
+    "hospitalCases": 10576,
+    "newCasesByPublishDate": 163954
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-13",
+    "totalDeaths": 78,
+    "hospitalCases": 9908,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-12",
+    "totalDeaths": 96,
+    "hospitalCases": 9618,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-11",
+    "totalDeaths": 97,
+    "hospitalCases": 9369,
+    "newCasesByPublishDate": 55883
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-10",
+    "totalDeaths": 90,
+    "hospitalCases": 9241,
+    "newCasesByPublishDate": 52722
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-09",
+    "totalDeaths": 86,
+    "hospitalCases": 9163,
+    "newCasesByPublishDate": 51378
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-08",
+    "totalDeaths": 98,
+    "hospitalCases": 9176,
+    "newCasesByPublishDate": 44918
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-07",
+    "totalDeaths": 91,
+    "hospitalCases": 8923,
+    "newCasesByPublishDate": 95324
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-06",
+    "totalDeaths": 62,
+    "hospitalCases": 8502,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-05",
+    "totalDeaths": 81,
+    "hospitalCases": 8400,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-04",
+    "totalDeaths": 85,
+    "hospitalCases": 8403,
+    "newCasesByPublishDate": 31776
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-03",
+    "totalDeaths": 76,
+    "hospitalCases": 8210,
+    "newCasesByPublishDate": 32858
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-02",
+    "totalDeaths": 107,
+    "hospitalCases": 8402,
+    "newCasesByPublishDate": 32077
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-03-01",
+    "totalDeaths": 82,
+    "hospitalCases": 8486,
+    "newCasesByPublishDate": 26711
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-28",
+    "totalDeaths": 82,
+    "hospitalCases": 8538,
+    "newCasesByPublishDate": 60595
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-27",
+    "totalDeaths": 90,
+    "hospitalCases": 8305,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-26",
+    "totalDeaths": 77,
+    "hospitalCases": 8197,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-25",
+    "totalDeaths": 89,
+    "hospitalCases": 8498,
+    "newCasesByPublishDate": 23526
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-24",
+    "totalDeaths": 93,
+    "hospitalCases": 8645,
+    "newCasesByPublishDate": 28193
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-23",
+    "totalDeaths": 90,
+    "hospitalCases": 8868,
+    "newCasesByPublishDate": 29703
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-22",
+    "totalDeaths": 89,
+    "hospitalCases": 8948,
+    "newCasesByPublishDate": 30080
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-21",
+    "totalDeaths": 90,
+    "hospitalCases": 9229,
+    "newCasesByPublishDate": 29753
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-20",
+    "totalDeaths": 103,
+    "hospitalCases": 9058,
+    "newCasesByPublishDate": 23831
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-19",
+    "totalDeaths": 97,
+    "hospitalCases": 9187,
+    "newCasesByPublishDate": 32230
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-18",
+    "totalDeaths": 100,
+    "hospitalCases": 9258,
+    "newCasesByPublishDate": 36900
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-17",
+    "totalDeaths": 103,
+    "hospitalCases": 9600,
+    "newCasesByPublishDate": 40376
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-16",
+    "totalDeaths": 104,
+    "hospitalCases": 9804,
+    "newCasesByPublishDate": 42756
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-15",
+    "totalDeaths": 101,
+    "hospitalCases": 10019,
+    "newCasesByPublishDate": 36471
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-14",
+    "totalDeaths": 126,
+    "hospitalCases": 10273,
+    "newCasesByPublishDate": 31943
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-13",
+    "totalDeaths": 110,
+    "hospitalCases": 10049,
+    "newCasesByPublishDate": 32316
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-12",
+    "totalDeaths": 126,
+    "hospitalCases": 10010,
+    "newCasesByPublishDate": 37791
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-11",
+    "totalDeaths": 120,
+    "hospitalCases": 10367,
+    "newCasesByPublishDate": 46736
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-10",
+    "totalDeaths": 105,
+    "hospitalCases": 10734,
+    "newCasesByPublishDate": 53993
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-09",
+    "totalDeaths": 116,
+    "hospitalCases": 11071,
+    "newCasesByPublishDate": 59193
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-08",
+    "totalDeaths": 134,
+    "hospitalCases": 11471,
+    "newCasesByPublishDate": 58453
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-07",
+    "totalDeaths": 121,
+    "hospitalCases": 11710,
+    "newCasesByPublishDate": 48601
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-06",
+    "totalDeaths": 129,
+    "hospitalCases": 11529,
+    "newCasesByPublishDate": 49533
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-05",
+    "totalDeaths": 146,
+    "hospitalCases": 11604,
+    "newCasesByPublishDate": 57377
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-04",
+    "totalDeaths": 141,
+    "hospitalCases": 12032,
+    "newCasesByPublishDate": 73185
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-03",
+    "totalDeaths": 162,
+    "hospitalCases": 12423,
+    "newCasesByPublishDate": 77189
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-02",
+    "totalDeaths": 158,
+    "hospitalCases": 12577,
+    "newCasesByPublishDate": 81446
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-02-01",
+    "totalDeaths": 163,
+    "hospitalCases": 12896,
+    "newCasesByPublishDate": 103353
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-31",
+    "totalDeaths": 172,
+    "hospitalCases": 13331,
+    "newCasesByPublishDate": 81720
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-30",
+    "totalDeaths": 166,
+    "hospitalCases": 12992,
+    "newCasesByPublishDate": 59559
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-29",
+    "totalDeaths": 159,
+    "hospitalCases": 12672,
+    "newCasesByPublishDate": 69137
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-28",
+    "totalDeaths": 160,
+    "hospitalCases": 13462,
+    "newCasesByPublishDate": 78711
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-27",
+    "totalDeaths": 172,
+    "hospitalCases": 13651,
+    "newCasesByPublishDate": 85288
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-26",
+    "totalDeaths": 174,
+    "hospitalCases": 13948,
+    "newCasesByPublishDate": 90587
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-25",
+    "totalDeaths": 156,
+    "hospitalCases": 14088,
+    "newCasesByPublishDate": 84302
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-24",
+    "totalDeaths": 196,
+    "hospitalCases": 14563,
+    "newCasesByPublishDate": 77232
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-23",
+    "totalDeaths": 181,
+    "hospitalCases": 14334,
+    "newCasesByPublishDate": 68913
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-22",
+    "totalDeaths": 190,
+    "hospitalCases": 14320,
+    "newCasesByPublishDate": 73331
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-21",
+    "totalDeaths": 211,
+    "hospitalCases": 14865,
+    "newCasesByPublishDate": 85902
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-20",
+    "totalDeaths": 164,
+    "hospitalCases": 15302,
+    "newCasesByPublishDate": 95974
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-19",
+    "totalDeaths": 176,
+    "hospitalCases": 15742,
+    "newCasesByPublishDate": 96545
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-18",
+    "totalDeaths": 197,
+    "hospitalCases": 16218,
+    "newCasesByPublishDate": 84987
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-17",
+    "totalDeaths": 194,
+    "hospitalCases": 16621,
+    "newCasesByPublishDate": 74249
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-16",
+    "totalDeaths": 205,
+    "hospitalCases": 16372,
+    "newCasesByPublishDate": 66273
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-15",
+    "totalDeaths": 207,
+    "hospitalCases": 16281,
+    "newCasesByPublishDate": 74576
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-14",
+    "totalDeaths": 199,
+    "hospitalCases": 16537,
+    "newCasesByPublishDate": 87857
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-13",
+    "totalDeaths": 184,
+    "hospitalCases": 16716,
+    "newCasesByPublishDate": 97770
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-12",
+    "totalDeaths": 196,
+    "hospitalCases": 16881,
+    "newCasesByPublishDate": 116173
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-11",
+    "totalDeaths": 201,
+    "hospitalCases": 16939,
+    "newCasesByPublishDate": 104833
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-10",
+    "totalDeaths": 198,
+    "hospitalCases": 17120,
+    "newCasesByPublishDate": 115998
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-09",
+    "totalDeaths": 198,
+    "hospitalCases": 16399,
+    "newCasesByPublishDate": 121228
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-08",
+    "totalDeaths": 184,
+    "hospitalCases": 16034,
+    "newCasesByPublishDate": 130330
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-07",
+    "totalDeaths": 201,
+    "hospitalCases": 16163,
+    "newCasesByPublishDate": 149405
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-06",
+    "totalDeaths": 179,
+    "hospitalCases": 16058,
+    "newCasesByPublishDate": 152306
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-05",
+    "totalDeaths": 156,
+    "hospitalCases": 15659,
+    "newCasesByPublishDate": 150232
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-04",
+    "totalDeaths": 151,
+    "hospitalCases": 15044,
+    "newCasesByPublishDate": 148725
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-03",
+    "totalDeaths": 149,
+    "hospitalCases": 14210,
+    "newCasesByPublishDate": 137541
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-02",
+    "totalDeaths": 142,
+    "hospitalCases": 13151,
+    "newCasesByPublishDate": 123547
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2022-01-01",
+    "totalDeaths": 148,
+    "hospitalCases": 12615,
+    "newCasesByPublishDate": 162572
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-31",
+    "totalDeaths": 132,
+    "hospitalCases": 12395,
+    "newCasesByPublishDate": 160276
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-30",
+    "totalDeaths": 155,
+    "hospitalCases": 11452,
+    "newCasesByPublishDate": 146604
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-29",
+    "totalDeaths": 104,
+    "hospitalCases": 10462,
+    "newCasesByPublishDate": 138287
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-28",
+    "totalDeaths": 134,
+    "hospitalCases": 9546,
+    "newCasesByPublishDate": 117093
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-27",
+    "totalDeaths": 113,
+    "hospitalCases": 8474,
+    "newCasesByPublishDate": 98515
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-26",
+    "totalDeaths": 99,
+    "hospitalCases": 7536,
+    "newCasesByPublishDate": 103558
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-25",
+    "totalDeaths": 97,
+    "hospitalCases": 7166,
+    "newCasesByPublishDate": 113628
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-24",
+    "totalDeaths": 103,
+    "hospitalCases": 7366,
+    "newCasesByPublishDate": 105069
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-23",
+    "totalDeaths": 123,
+    "hospitalCases": 7114,
+    "newCasesByPublishDate": 107055
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-22",
+    "totalDeaths": 121,
+    "hospitalCases": 7080,
+    "newCasesByPublishDate": 95795
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-21",
+    "totalDeaths": 90,
+    "hospitalCases": 6902,
+    "newCasesByPublishDate": 80916
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-20",
+    "totalDeaths": 110,
+    "hospitalCases": 6688,
+    "newCasesByPublishDate": 76065
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-19",
+    "totalDeaths": 102,
+    "hospitalCases": 6434,
+    "newCasesByPublishDate": 71702
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-18",
+    "totalDeaths": 91,
+    "hospitalCases": 6287,
+    "newCasesByPublishDate": 82426
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-17",
+    "totalDeaths": 113,
+    "hospitalCases": 6321,
+    "newCasesByPublishDate": 83693
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-16",
+    "totalDeaths": 96,
+    "hospitalCases": 6405,
+    "newCasesByPublishDate": 77299
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-15",
+    "totalDeaths": 98,
+    "hospitalCases": 6358,
+    "newCasesByPublishDate": 68868
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-14",
+    "totalDeaths": 124,
+    "hospitalCases": 6434,
+    "newCasesByPublishDate": 53093
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-13",
+    "totalDeaths": 93,
+    "hospitalCases": 6395,
+    "newCasesByPublishDate": 44931
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-12",
+    "totalDeaths": 119,
+    "hospitalCases": 6223,
+    "newCasesByPublishDate": 40713
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-11",
+    "totalDeaths": 86,
+    "hospitalCases": 6095,
+    "newCasesByPublishDate": 48540
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-10",
+    "totalDeaths": 97,
+    "hospitalCases": 6088,
+    "newCasesByPublishDate": 48908
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-09",
+    "totalDeaths": 107,
+    "hospitalCases": 6130,
+    "newCasesByPublishDate": 43550
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-08",
+    "totalDeaths": 109,
+    "hospitalCases": 6053,
+    "newCasesByPublishDate": 44019
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-07",
+    "totalDeaths": 96,
+    "hospitalCases": 6027,
+    "newCasesByPublishDate": 38866
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-06",
+    "totalDeaths": 111,
+    "hospitalCases": 5992,
+    "newCasesByPublishDate": 41525
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-05",
+    "totalDeaths": 94,
+    "hospitalCases": 5903,
+    "newCasesByPublishDate": 37396
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-04",
+    "totalDeaths": 128,
+    "hospitalCases": 5784,
+    "newCasesByPublishDate": 39949
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-03",
+    "totalDeaths": 123,
+    "hospitalCases": 5851,
+    "newCasesByPublishDate": 43888
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-02",
+    "totalDeaths": 94,
+    "hospitalCases": 5915,
+    "newCasesByPublishDate": 45880
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-12-01",
+    "totalDeaths": 107,
+    "hospitalCases": 5829,
+    "newCasesByPublishDate": 41519
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-30",
+    "totalDeaths": 108,
+    "hospitalCases": 6123,
+    "newCasesByPublishDate": 33590
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-29",
+    "totalDeaths": 117,
+    "hospitalCases": 6094,
+    "newCasesByPublishDate": 34906
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-28",
+    "totalDeaths": 104,
+    "hospitalCases": 5890,
+    "newCasesByPublishDate": 32136
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-27",
+    "totalDeaths": 96,
+    "hospitalCases": 5852,
+    "newCasesByPublishDate": 35798
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-26",
+    "totalDeaths": 102,
+    "hospitalCases": 5992,
+    "newCasesByPublishDate": 42272
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-25",
+    "totalDeaths": 112,
+    "hospitalCases": 6068,
+    "newCasesByPublishDate": 40382
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-24",
+    "totalDeaths": 104,
+    "hospitalCases": 6062,
+    "newCasesByPublishDate": 36511
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-23",
+    "totalDeaths": 118,
+    "hospitalCases": 6257,
+    "newCasesByPublishDate": 36550
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-22",
+    "totalDeaths": 99,
+    "hospitalCases": 6424,
+    "newCasesByPublishDate": 36478
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-21",
+    "totalDeaths": 97,
+    "hospitalCases": 6322,
+    "newCasesByPublishDate": 33513
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-20",
+    "totalDeaths": 105,
+    "hospitalCases": 6191,
+    "newCasesByPublishDate": 36339
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-19",
+    "totalDeaths": 105,
+    "hospitalCases": 6310,
+    "newCasesByPublishDate": 37006
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-18",
+    "totalDeaths": 104,
+    "hospitalCases": 6336,
+    "newCasesByPublishDate": 39315
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-17",
+    "totalDeaths": 95,
+    "hospitalCases": 6412,
+    "newCasesByPublishDate": 30638
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-16",
+    "totalDeaths": 134,
+    "hospitalCases": 6623,
+    "newCasesByPublishDate": 30853
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-15",
+    "totalDeaths": 134,
+    "hospitalCases": 6864,
+    "newCasesByPublishDate": 31440
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-14",
+    "totalDeaths": 106,
+    "hospitalCases": 6707,
+    "newCasesByPublishDate": 29404
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-13",
+    "totalDeaths": 116,
+    "hospitalCases": 6639,
+    "newCasesByPublishDate": 33493
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-12",
+    "totalDeaths": 105,
+    "hospitalCases": 6777,
+    "newCasesByPublishDate": 33155
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-11",
+    "totalDeaths": 126,
+    "hospitalCases": 6861,
+    "newCasesByPublishDate": 35472
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-10",
+    "totalDeaths": 127,
+    "hospitalCases": 6961,
+    "newCasesByPublishDate": 31541
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-09",
+    "totalDeaths": 131,
+    "hospitalCases": 7053,
+    "newCasesByPublishDate": 27872
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-08",
+    "totalDeaths": 127,
+    "hospitalCases": 7075,
+    "newCasesByPublishDate": 24979
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-07",
+    "totalDeaths": 122,
+    "hospitalCases": 6910,
+    "newCasesByPublishDate": 23779
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-06",
+    "totalDeaths": 133,
+    "hospitalCases": 6874,
+    "newCasesByPublishDate": 26250
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-05",
+    "totalDeaths": 131,
+    "hospitalCases": 7072,
+    "newCasesByPublishDate": 28490
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-04",
+    "totalDeaths": 130,
+    "hospitalCases": 7201,
+    "newCasesByPublishDate": 30166
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-03",
+    "totalDeaths": 135,
+    "hospitalCases": 7291,
+    "newCasesByPublishDate": 34317
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-02",
+    "totalDeaths": 132,
+    "hospitalCases": 7510,
+    "newCasesByPublishDate": 28531
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-11-01",
+    "totalDeaths": 144,
+    "hospitalCases": 7535,
+    "newCasesByPublishDate": 32081
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-31",
+    "totalDeaths": 151,
+    "hospitalCases": 7311,
+    "newCasesByPublishDate": 31479
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-30",
+    "totalDeaths": 123,
+    "hospitalCases": 7155,
+    "newCasesByPublishDate": 36204
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-29",
+    "totalDeaths": 132,
+    "hospitalCases": 7113,
+    "newCasesByPublishDate": 36853
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-28",
+    "totalDeaths": 157,
+    "hospitalCases": 7019,
+    "newCasesByPublishDate": 33903
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-27",
+    "totalDeaths": 140,
+    "hospitalCases": 6951,
+    "newCasesByPublishDate": 37502
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-26",
+    "totalDeaths": 129,
+    "hospitalCases": 6883,
+    "newCasesByPublishDate": 32280
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-25",
+    "totalDeaths": 123,
+    "hospitalCases": 6801,
+    "newCasesByPublishDate": 33309
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-24",
+    "totalDeaths": 119,
+    "hospitalCases": 6515,
+    "newCasesByPublishDate": 33221
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-23",
+    "totalDeaths": 130,
+    "hospitalCases": 6386,
+    "newCasesByPublishDate": 41259
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-22",
+    "totalDeaths": 115,
+    "hospitalCases": 6405,
+    "newCasesByPublishDate": 41745
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-21",
+    "totalDeaths": 114,
+    "hospitalCases": 6366,
+    "newCasesByPublishDate": 44363
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-20",
+    "totalDeaths": 116,
+    "hospitalCases": 6299,
+    "newCasesByPublishDate": 41498
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-19",
+    "totalDeaths": 109,
+    "hospitalCases": 6099,
+    "newCasesByPublishDate": 36712
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-18",
+    "totalDeaths": 97,
+    "hospitalCases": 5938,
+    "newCasesByPublishDate": 39473
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-17",
+    "totalDeaths": 108,
+    "hospitalCases": 5623,
+    "newCasesByPublishDate": 38543
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-16",
+    "totalDeaths": 104,
+    "hospitalCases": 5385,
+    "newCasesByPublishDate": 39624
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-15",
+    "totalDeaths": 107,
+    "hospitalCases": 5363,
+    "newCasesByPublishDate": 37691
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-14",
+    "totalDeaths": 113,
+    "hospitalCases": 5289,
+    "newCasesByPublishDate": 38488
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-13",
+    "totalDeaths": 98,
+    "hospitalCases": 5246,
+    "newCasesByPublishDate": 36458
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-12",
+    "totalDeaths": 96,
+    "hospitalCases": 5213,
+    "newCasesByPublishDate": 33287
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-11",
+    "totalDeaths": 97,
+    "hospitalCases": 5206,
+    "newCasesByPublishDate": 32349
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-10",
+    "totalDeaths": 82,
+    "hospitalCases": 5077,
+    "newCasesByPublishDate": 31096
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-09",
+    "totalDeaths": 92,
+    "hospitalCases": 4921,
+    "newCasesByPublishDate": 31259
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-08",
+    "totalDeaths": 95,
+    "hospitalCases": 4975,
+    "newCasesByPublishDate": 32157
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-07",
+    "totalDeaths": 95,
+    "hospitalCases": 4962,
+    "newCasesByPublishDate": 33305
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-06",
+    "totalDeaths": 77,
+    "hospitalCases": 5009,
+    "newCasesByPublishDate": 33450
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-05",
+    "totalDeaths": 96,
+    "hospitalCases": 5006,
+    "newCasesByPublishDate": 28846
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-04",
+    "totalDeaths": 83,
+    "hospitalCases": 4909,
+    "newCasesByPublishDate": 28251
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-03",
+    "totalDeaths": 78,
+    "hospitalCases": 4778,
+    "newCasesByPublishDate": 25176
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-02",
+    "totalDeaths": 73,
+    "hospitalCases": 4652,
+    "newCasesByPublishDate": 26794
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-10-01",
+    "totalDeaths": 102,
+    "hospitalCases": 4799,
+    "newCasesByPublishDate": 28836
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-30",
+    "totalDeaths": 94,
+    "hospitalCases": 4916,
+    "newCasesByPublishDate": 29826
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-29",
+    "totalDeaths": 93,
+    "hospitalCases": 5017,
+    "newCasesByPublishDate": 29036
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-28",
+    "totalDeaths": 87,
+    "hospitalCases": 5126,
+    "newCasesByPublishDate": 28808
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-27",
+    "totalDeaths": 82,
+    "hospitalCases": 5121,
+    "newCasesByPublishDate": 29329
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-26",
+    "totalDeaths": 76,
+    "hospitalCases": 4949,
+    "newCasesByPublishDate": 25538
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-25",
+    "totalDeaths": 89,
+    "hospitalCases": 5100,
+    "newCasesByPublishDate": 28087
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-24",
+    "totalDeaths": 99,
+    "hospitalCases": 5036,
+    "newCasesByPublishDate": 28199
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-23",
+    "totalDeaths": 108,
+    "hospitalCases": 5214,
+    "newCasesByPublishDate": 29045
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-22",
+    "totalDeaths": 114,
+    "hospitalCases": 5406,
+    "newCasesByPublishDate": 27317
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-21",
+    "totalDeaths": 98,
+    "hospitalCases": 5543,
+    "newCasesByPublishDate": 24973
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-20",
+    "totalDeaths": 116,
+    "hospitalCases": 5727,
+    "newCasesByPublishDate": 26905
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-19",
+    "totalDeaths": 101,
+    "hospitalCases": 5695,
+    "newCasesByPublishDate": 22173
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-18",
+    "totalDeaths": 102,
+    "hospitalCases": 5688,
+    "newCasesByPublishDate": 22956
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-17",
+    "totalDeaths": 130,
+    "hospitalCases": 5910,
+    "newCasesByPublishDate": 23265
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-16",
+    "totalDeaths": 117,
+    "hospitalCases": 6081,
+    "newCasesByPublishDate": 22949
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-15",
+    "totalDeaths": 120,
+    "hospitalCases": 6306,
+    "newCasesByPublishDate": 22078
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-14",
+    "totalDeaths": 126,
+    "hospitalCases": 6344,
+    "newCasesByPublishDate": 19739
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-13",
+    "totalDeaths": 77,
+    "hospitalCases": 6424,
+    "newCasesByPublishDate": 21077
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-12",
+    "totalDeaths": 102,
+    "hospitalCases": 6253,
+    "newCasesByPublishDate": 19913
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-11",
+    "totalDeaths": 108,
+    "hospitalCases": 6206,
+    "newCasesByPublishDate": 23825
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-10",
+    "totalDeaths": 110,
+    "hospitalCases": 6400,
+    "newCasesByPublishDate": 26653
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-09",
+    "totalDeaths": 137,
+    "hospitalCases": 6254,
+    "newCasesByPublishDate": 27049
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-08",
+    "totalDeaths": 115,
+    "hospitalCases": 6302,
+    "newCasesByPublishDate": 29286
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-07",
+    "totalDeaths": 128,
+    "hospitalCases": 6244,
+    "newCasesByPublishDate": 27545
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-06",
+    "totalDeaths": 128,
+    "hospitalCases": 6375,
+    "newCasesByPublishDate": 27202
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-05",
+    "totalDeaths": 122,
+    "hospitalCases": 6167,
+    "newCasesByPublishDate": 27022
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-04",
+    "totalDeaths": 118,
+    "hospitalCases": 6043,
+    "newCasesByPublishDate": 29614
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-03",
+    "totalDeaths": 123,
+    "hospitalCases": 6195,
+    "newCasesByPublishDate": 31726
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-02",
+    "totalDeaths": 105,
+    "hospitalCases": 6186,
+    "newCasesByPublishDate": 28686
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-09-01",
+    "totalDeaths": 102,
+    "hospitalCases": 6236,
+    "newCasesByPublishDate": 24723
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-31",
+    "totalDeaths": 100,
+    "hospitalCases": 6293,
+    "newCasesByPublishDate": 20967
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-30",
+    "totalDeaths": 93,
+    "hospitalCases": 6002,
+    "newCasesByPublishDate": 21324
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-29",
+    "totalDeaths": 114,
+    "hospitalCases": 5855,
+    "newCasesByPublishDate": 22501
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-28",
+    "totalDeaths": 105,
+    "hospitalCases": 5756,
+    "newCasesByPublishDate": 25118
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-27",
+    "totalDeaths": 113,
+    "hospitalCases": 5889,
+    "newCasesByPublishDate": 27545
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-26",
+    "totalDeaths": 108,
+    "hospitalCases": 5893,
+    "newCasesByPublishDate": 29417
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-25",
+    "totalDeaths": 85,
+    "hospitalCases": 5922,
+    "newCasesByPublishDate": 27350
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-24",
+    "totalDeaths": 104,
+    "hospitalCases": 5911,
+    "newCasesByPublishDate": 23474
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-23",
+    "totalDeaths": 97,
+    "hospitalCases": 6000,
+    "newCasesByPublishDate": 24158
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-22",
+    "totalDeaths": 110,
+    "hospitalCases": 5749,
+    "newCasesByPublishDate": 25952
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-21",
+    "totalDeaths": 97,
+    "hospitalCases": 5575,
+    "newCasesByPublishDate": 26982
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-20",
+    "totalDeaths": 108,
+    "hospitalCases": 5576,
+    "newCasesByPublishDate": 29576
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-19",
+    "totalDeaths": 99,
+    "hospitalCases": 5554,
+    "newCasesByPublishDate": 29762
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-18",
+    "totalDeaths": 89,
+    "hospitalCases": 5514,
+    "newCasesByPublishDate": 28648
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-17",
+    "totalDeaths": 87,
+    "hospitalCases": 5437,
+    "newCasesByPublishDate": 22712
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-16",
+    "totalDeaths": 78,
+    "hospitalCases": 5429,
+    "newCasesByPublishDate": 23171
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-15",
+    "totalDeaths": 75,
+    "hospitalCases": 5115,
+    "newCasesByPublishDate": 22859
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-14",
+    "totalDeaths": 85,
+    "hospitalCases": 4973,
+    "newCasesByPublishDate": 26700
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-13",
+    "totalDeaths": 81,
+    "hospitalCases": 5076,
+    "newCasesByPublishDate": 28679
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-12",
+    "totalDeaths": 91,
+    "hospitalCases": 5029,
+    "newCasesByPublishDate": 28093
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-11",
+    "totalDeaths": 78,
+    "hospitalCases": 5073,
+    "newCasesByPublishDate": 26647
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-10",
+    "totalDeaths": 73,
+    "hospitalCases": 5096,
+    "newCasesByPublishDate": 20630
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-09",
+    "totalDeaths": 74,
+    "hospitalCases": 5098,
+    "newCasesByPublishDate": 21915
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-08",
+    "totalDeaths": 67,
+    "hospitalCases": 4939,
+    "newCasesByPublishDate": 24196
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-07",
+    "totalDeaths": 90,
+    "hospitalCases": 4817,
+    "newCasesByPublishDate": 25877
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-06",
+    "totalDeaths": 85,
+    "hospitalCases": 4879,
+    "newCasesByPublishDate": 28321
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-05",
+    "totalDeaths": 89,
+    "hospitalCases": 4894,
+    "newCasesByPublishDate": 26512
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-04",
+    "totalDeaths": 79,
+    "hospitalCases": 4944,
+    "newCasesByPublishDate": 26393
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-03",
+    "totalDeaths": 70,
+    "hospitalCases": 5116,
+    "newCasesByPublishDate": 19012
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-02",
+    "totalDeaths": 76,
+    "hospitalCases": 5309,
+    "newCasesByPublishDate": 19175
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-08-01",
+    "totalDeaths": 73,
+    "hospitalCases": 5090,
+    "newCasesByPublishDate": 21645
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-31",
+    "totalDeaths": 73,
+    "hospitalCases": 5057,
+    "newCasesByPublishDate": 23949
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-30",
+    "totalDeaths": 88,
+    "hospitalCases": 5111,
+    "newCasesByPublishDate": 26241
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-29",
+    "totalDeaths": 73,
+    "hospitalCases": 5056,
+    "newCasesByPublishDate": 27524
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-28",
+    "totalDeaths": 70,
+    "hospitalCases": 5182,
+    "newCasesByPublishDate": 24367
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-27",
+    "totalDeaths": 61,
+    "hospitalCases": 5163,
+    "newCasesByPublishDate": 20290
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-26",
+    "totalDeaths": 70,
+    "hospitalCases": 5055,
+    "newCasesByPublishDate": 22181
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-25",
+    "totalDeaths": 61,
+    "hospitalCases": 4725,
+    "newCasesByPublishDate": 25434
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-24",
+    "totalDeaths": 60,
+    "hospitalCases": 4476,
+    "newCasesByPublishDate": 28968
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-23",
+    "totalDeaths": 68,
+    "hospitalCases": 4401,
+    "newCasesByPublishDate": 32792
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-22",
+    "totalDeaths": 73,
+    "hospitalCases": 4230,
+    "newCasesByPublishDate": 35939
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-21",
+    "totalDeaths": 48,
+    "hospitalCases": 4063,
+    "newCasesByPublishDate": 39504
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-20",
+    "totalDeaths": 54,
+    "hospitalCases": 3894,
+    "newCasesByPublishDate": 43261
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-19",
+    "totalDeaths": 76,
+    "hospitalCases": 3813,
+    "newCasesByPublishDate": 34657
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-18",
+    "totalDeaths": 59,
+    "hospitalCases": 3546,
+    "newCasesByPublishDate": 44777
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-17",
+    "totalDeaths": 49,
+    "hospitalCases": 3442,
+    "newCasesByPublishDate": 50955
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-16",
+    "totalDeaths": 44,
+    "hospitalCases": 3367,
+    "newCasesByPublishDate": 47360
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-15",
+    "totalDeaths": 45,
+    "hospitalCases": 3241,
+    "newCasesByPublishDate": 44523
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-14",
+    "totalDeaths": 38,
+    "hospitalCases": 3110,
+    "newCasesByPublishDate": 37895
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-13",
+    "totalDeaths": 40,
+    "hospitalCases": 2970,
+    "newCasesByPublishDate": 32883
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-12",
+    "totalDeaths": 34,
+    "hospitalCases": 2798,
+    "newCasesByPublishDate": 30619
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-11",
+    "totalDeaths": 28,
+    "hospitalCases": 2564,
+    "newCasesByPublishDate": 28421
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-10",
+    "totalDeaths": 34,
+    "hospitalCases": 2429,
+    "newCasesByPublishDate": 29732
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-09",
+    "totalDeaths": 42,
+    "hospitalCases": 2352,
+    "newCasesByPublishDate": 31231
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-08",
+    "totalDeaths": 30,
+    "hospitalCases": 2209,
+    "newCasesByPublishDate": 28421
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-07",
+    "totalDeaths": 28,
+    "hospitalCases": 2144,
+    "newCasesByPublishDate": 27516
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-06",
+    "totalDeaths": 22,
+    "hospitalCases": 1998,
+    "newCasesByPublishDate": 25295
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-05",
+    "totalDeaths": 21,
+    "hospitalCases": 1888,
+    "newCasesByPublishDate": 23286
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-04",
+    "totalDeaths": 23,
+    "hospitalCases": 1744,
+    "newCasesByPublishDate": 20454
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-03",
+    "totalDeaths": 27,
+    "hospitalCases": 1636,
+    "newCasesByPublishDate": 21317
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-02",
+    "totalDeaths": 26,
+    "hospitalCases": 1611,
+    "newCasesByPublishDate": 22393
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-07-01",
+    "totalDeaths": 25,
+    "hospitalCases": 1560,
+    "newCasesByPublishDate": 22948
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-30",
+    "totalDeaths": 23,
+    "hospitalCases": 1500,
+    "newCasesByPublishDate": 21293
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-29",
+    "totalDeaths": 21,
+    "hospitalCases": 1445,
+    "newCasesByPublishDate": 16802
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-28",
+    "totalDeaths": 13,
+    "hospitalCases": 1465,
+    "newCasesByPublishDate": 18702
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-27",
+    "totalDeaths": 20,
+    "hospitalCases": 1331,
+    "newCasesByPublishDate": 11560
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-26",
+    "totalDeaths": 10,
+    "hospitalCases": 1276,
+    "newCasesByPublishDate": 15136
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-25",
+    "totalDeaths": 21,
+    "hospitalCases": 1284,
+    "newCasesByPublishDate": 13498
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-24",
+    "totalDeaths": 23,
+    "hospitalCases": 1274,
+    "newCasesByPublishDate": 13068
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-23",
+    "totalDeaths": 6,
+    "hospitalCases": 1255,
+    "newCasesByPublishDate": 12765
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-22",
+    "totalDeaths": 12,
+    "hospitalCases": 1301,
+    "newCasesByPublishDate": 9096
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-21",
+    "totalDeaths": 11,
+    "hospitalCases": 1290,
+    "newCasesByPublishDate": 8766
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-20",
+    "totalDeaths": 20,
+    "hospitalCases": 1168,
+    "newCasesByPublishDate": 7778
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-19",
+    "totalDeaths": 17,
+    "hospitalCases": 1143,
+    "newCasesByPublishDate": 8954
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-18",
+    "totalDeaths": 14,
+    "hospitalCases": 1170,
+    "newCasesByPublishDate": 9185
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-17",
+    "totalDeaths": 7,
+    "hospitalCases": 1122,
+    "newCasesByPublishDate": 9371
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-16",
+    "totalDeaths": 15,
+    "hospitalCases": 1057,
+    "newCasesByPublishDate": 7642
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-15",
+    "totalDeaths": 15,
+    "hospitalCases": 1030,
+    "newCasesByPublishDate": 6486
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-14",
+    "totalDeaths": 12,
+    "hospitalCases": 993,
+    "newCasesByPublishDate": 6647
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-13",
+    "totalDeaths": 9,
+    "hospitalCases": 947,
+    "newCasesByPublishDate": 6269
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-12",
+    "totalDeaths": 11,
+    "hospitalCases": 915,
+    "newCasesByPublishDate": 6601
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-11",
+    "totalDeaths": 11,
+    "hospitalCases": 884,
+    "newCasesByPublishDate": 6782
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-10",
+    "totalDeaths": 16,
+    "hospitalCases": 906,
+    "newCasesByPublishDate": 6436
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-09",
+    "totalDeaths": 14,
+    "hospitalCases": 876,
+    "newCasesByPublishDate": 6201
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-08",
+    "totalDeaths": 13,
+    "hospitalCases": 879,
+    "newCasesByPublishDate": 5250
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-07",
+    "totalDeaths": 5,
+    "hospitalCases": 860,
+    "newCasesByPublishDate": 4913
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-06",
+    "totalDeaths": 12,
+    "hospitalCases": 807,
+    "newCasesByPublishDate": 4405
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-05",
+    "totalDeaths": 5,
+    "hospitalCases": 782,
+    "newCasesByPublishDate": 4810
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-04",
+    "totalDeaths": 13,
+    "hospitalCases": 805,
+    "newCasesByPublishDate": 5102
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-03",
+    "totalDeaths": 14,
+    "hospitalCases": 779,
+    "newCasesByPublishDate": 4310
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-02",
+    "totalDeaths": 10,
+    "hospitalCases": 801,
+    "newCasesByPublishDate": 3486
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-06-01",
+    "totalDeaths": 9,
+    "hospitalCases": 776,
+    "newCasesByPublishDate": 2539
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-31",
+    "totalDeaths": 10,
+    "hospitalCases": 773,
+    "newCasesByPublishDate": 2854
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-30",
+    "totalDeaths": 8,
+    "hospitalCases": 755,
+    "newCasesByPublishDate": 2621
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-29",
+    "totalDeaths": 9,
+    "hospitalCases": 748,
+    "newCasesByPublishDate": 2747
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-28",
+    "totalDeaths": 12,
+    "hospitalCases": 743,
+    "newCasesByPublishDate": 3434
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-27",
+    "totalDeaths": 8,
+    "hospitalCases": 742,
+    "newCasesByPublishDate": 2936
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-26",
+    "totalDeaths": 12,
+    "hospitalCases": 745,
+    "newCasesByPublishDate": 2540
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-25",
+    "totalDeaths": 7,
+    "hospitalCases": 765,
+    "newCasesByPublishDate": 2081
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-24",
+    "totalDeaths": 13,
+    "hospitalCases": 797,
+    "newCasesByPublishDate": 1972
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-23",
+    "totalDeaths": 14,
+    "hospitalCases": 756,
+    "newCasesByPublishDate": 1734
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-22",
+    "totalDeaths": 3,
+    "hospitalCases": 730,
+    "newCasesByPublishDate": 2242
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-21",
+    "totalDeaths": 16,
+    "hospitalCases": 766,
+    "newCasesByPublishDate": 2303
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-20",
+    "totalDeaths": 6,
+    "hospitalCases": 749,
+    "newCasesByPublishDate": 2307
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-19",
+    "totalDeaths": 3,
+    "hospitalCases": 757,
+    "newCasesByPublishDate": 2151
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-18",
+    "totalDeaths": 9,
+    "hospitalCases": 749,
+    "newCasesByPublishDate": 2008
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-17",
+    "totalDeaths": 11,
+    "hospitalCases": 798,
+    "newCasesByPublishDate": 1645
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-16",
+    "totalDeaths": 10,
+    "hospitalCases": 801,
+    "newCasesByPublishDate": 1471
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-15",
+    "totalDeaths": 13,
+    "hospitalCases": 810,
+    "newCasesByPublishDate": 1614
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-14",
+    "totalDeaths": 9,
+    "hospitalCases": 818,
+    "newCasesByPublishDate": 1828
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-13",
+    "totalDeaths": 10,
+    "hospitalCases": 845,
+    "newCasesByPublishDate": 2229
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-12",
+    "totalDeaths": 13,
+    "hospitalCases": 907,
+    "newCasesByPublishDate": 1804
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-11",
+    "totalDeaths": 19,
+    "hospitalCases": 921,
+    "newCasesByPublishDate": 2117
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-10",
+    "totalDeaths": 7,
+    "hospitalCases": 944,
+    "newCasesByPublishDate": 2009
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-09",
+    "totalDeaths": 11,
+    "hospitalCases": 933,
+    "newCasesByPublishDate": 1418
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-08",
+    "totalDeaths": 17,
+    "hospitalCases": 948,
+    "newCasesByPublishDate": 1742
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-07",
+    "totalDeaths": 15,
+    "hospitalCases": 973,
+    "newCasesByPublishDate": 2142
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-06",
+    "totalDeaths": 14,
+    "hospitalCases": 976,
+    "newCasesByPublishDate": 2194
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-05",
+    "totalDeaths": 20,
+    "hospitalCases": 1032,
+    "newCasesByPublishDate": 1906
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-04",
+    "totalDeaths": 14,
+    "hospitalCases": 1093,
+    "newCasesByPublishDate": 1659
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-03",
+    "totalDeaths": 17,
+    "hospitalCases": 1096,
+    "newCasesByPublishDate": 1453
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-02",
+    "totalDeaths": 16,
+    "hospitalCases": 1082,
+    "newCasesByPublishDate": 1377
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-05-01",
+    "totalDeaths": 14,
+    "hospitalCases": 1071,
+    "newCasesByPublishDate": 1642
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-30",
+    "totalDeaths": 16,
+    "hospitalCases": 1161,
+    "newCasesByPublishDate": 2046
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-29",
+    "totalDeaths": 15,
+    "hospitalCases": 1235,
+    "newCasesByPublishDate": 2103
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-28",
+    "totalDeaths": 19,
+    "hospitalCases": 1278,
+    "newCasesByPublishDate": 1829
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-27",
+    "totalDeaths": 23,
+    "hospitalCases": 1310,
+    "newCasesByPublishDate": 2410
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-26",
+    "totalDeaths": 19,
+    "hospitalCases": 1393,
+    "newCasesByPublishDate": 1752
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-25",
+    "totalDeaths": 22,
+    "hospitalCases": 1377,
+    "newCasesByPublishDate": 1401
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-24",
+    "totalDeaths": 19,
+    "hospitalCases": 1401,
+    "newCasesByPublishDate": 1804
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-23",
+    "totalDeaths": 23,
+    "hospitalCases": 1478,
+    "newCasesByPublishDate": 2277
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-22",
+    "totalDeaths": 28,
+    "hospitalCases": 1523,
+    "newCasesByPublishDate": 2315
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-21",
+    "totalDeaths": 25,
+    "hospitalCases": 1609,
+    "newCasesByPublishDate": 1943
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-20",
+    "totalDeaths": 30,
+    "hospitalCases": 1649,
+    "newCasesByPublishDate": 2169
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-19",
+    "totalDeaths": 17,
+    "hospitalCases": 1732,
+    "newCasesByPublishDate": 2550
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-18",
+    "totalDeaths": 27,
+    "hospitalCases": 1691,
+    "newCasesByPublishDate": 1495
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-17",
+    "totalDeaths": 35,
+    "hospitalCases": 1735,
+    "newCasesByPublishDate": 1897
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-16",
+    "totalDeaths": 28,
+    "hospitalCases": 1844,
+    "newCasesByPublishDate": 2225
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-15",
+    "totalDeaths": 37,
+    "hospitalCases": 1885,
+    "newCasesByPublishDate": 2171
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-14",
+    "totalDeaths": 26,
+    "hospitalCases": 1972,
+    "newCasesByPublishDate": 2054
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-13",
+    "totalDeaths": 37,
+    "hospitalCases": 2057,
+    "newCasesByPublishDate": 2070
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-12",
+    "totalDeaths": 35,
+    "hospitalCases": 2108,
+    "newCasesByPublishDate": 3222
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-11",
+    "totalDeaths": 34,
+    "hospitalCases": 2096,
+    "newCasesByPublishDate": 1338
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-10",
+    "totalDeaths": 36,
+    "hospitalCases": 2190,
+    "newCasesByPublishDate": 2032
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-09",
+    "totalDeaths": 32,
+    "hospitalCases": 2321,
+    "newCasesByPublishDate": 2638
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-08",
+    "totalDeaths": 52,
+    "hospitalCases": 2382,
+    "newCasesByPublishDate": 2486
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-07",
+    "totalDeaths": 37,
+    "hospitalCases": 2486,
+    "newCasesByPublishDate": 2304
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-06",
+    "totalDeaths": 37,
+    "hospitalCases": 2588,
+    "newCasesByPublishDate": 1937
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-05",
+    "totalDeaths": 35,
+    "hospitalCases": 2680,
+    "newCasesByPublishDate": 2236
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-04",
+    "totalDeaths": 51,
+    "hospitalCases": 2672,
+    "newCasesByPublishDate": 1954
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-03",
+    "totalDeaths": 33,
+    "hospitalCases": 2677,
+    "newCasesByPublishDate": 2847
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-02",
+    "totalDeaths": 38,
+    "hospitalCases": 2784,
+    "newCasesByPublishDate": 2881
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-04-01",
+    "totalDeaths": 54,
+    "hospitalCases": 2928,
+    "newCasesByPublishDate": 3784
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-31",
+    "totalDeaths": 64,
+    "hospitalCases": 3084,
+    "newCasesByPublishDate": 3327
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-30",
+    "totalDeaths": 48,
+    "hospitalCases": 3283,
+    "newCasesByPublishDate": 3384
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-29",
+    "totalDeaths": 58,
+    "hospitalCases": 3466,
+    "newCasesByPublishDate": 4112
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-28",
+    "totalDeaths": 42,
+    "hospitalCases": 3438,
+    "newCasesByPublishDate": 3153
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-27",
+    "totalDeaths": 55,
+    "hospitalCases": 3676,
+    "newCasesByPublishDate": 3813
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-26",
+    "totalDeaths": 61,
+    "hospitalCases": 3712,
+    "newCasesByPublishDate": 5273
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-25",
+    "totalDeaths": 68,
+    "hospitalCases": 3763,
+    "newCasesByPublishDate": 5286
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-24",
+    "totalDeaths": 58,
+    "hospitalCases": 4005,
+    "newCasesByPublishDate": 4615
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-23",
+    "totalDeaths": 82,
+    "hospitalCases": 4245,
+    "newCasesByPublishDate": 4583
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-22",
+    "totalDeaths": 89,
+    "hospitalCases": 4501,
+    "newCasesByPublishDate": 4746
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-21",
+    "totalDeaths": 108,
+    "hospitalCases": 4492,
+    "newCasesByPublishDate": 4459
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-20",
+    "totalDeaths": 88,
+    "hospitalCases": 4589,
+    "newCasesByPublishDate": 4732
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-19",
+    "totalDeaths": 80,
+    "hospitalCases": 4841,
+    "newCasesByPublishDate": 3809
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-18",
+    "totalDeaths": 85,
+    "hospitalCases": 5083,
+    "newCasesByPublishDate": 5213
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-17",
+    "totalDeaths": 104,
+    "hospitalCases": 5397,
+    "newCasesByPublishDate": 4827
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-16",
+    "totalDeaths": 94,
+    "hospitalCases": 5664,
+    "newCasesByPublishDate": 4391
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-15",
+    "totalDeaths": 121,
+    "hospitalCases": 5976,
+    "newCasesByPublishDate": 4264
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-14",
+    "totalDeaths": 114,
+    "hospitalCases": 6039,
+    "newCasesByPublishDate": 3774
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-13",
+    "totalDeaths": 123,
+    "hospitalCases": 6072,
+    "newCasesByPublishDate": 4539
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-12",
+    "totalDeaths": 117,
+    "hospitalCases": 6391,
+    "newCasesByPublishDate": 5529
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-11",
+    "totalDeaths": 152,
+    "hospitalCases": 6687,
+    "newCasesByPublishDate": 5744
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-10",
+    "totalDeaths": 135,
+    "hospitalCases": 6975,
+    "newCasesByPublishDate": 4863
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-09",
+    "totalDeaths": 160,
+    "hospitalCases": 7451,
+    "newCasesByPublishDate": 4894
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-08",
+    "totalDeaths": 165,
+    "hospitalCases": 7847,
+    "newCasesByPublishDate": 3903
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-07",
+    "totalDeaths": 175,
+    "hospitalCases": 7812,
+    "newCasesByPublishDate": 4497
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-06",
+    "totalDeaths": 178,
+    "hospitalCases": 8021,
+    "newCasesByPublishDate": 5118
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-05",
+    "totalDeaths": 203,
+    "hospitalCases": 8594,
+    "newCasesByPublishDate": 5053
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-04",
+    "totalDeaths": 203,
+    "hospitalCases": 9092,
+    "newCasesByPublishDate": 5643
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-03",
+    "totalDeaths": 188,
+    "hospitalCases": 9594,
+    "newCasesByPublishDate": 5408
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-02",
+    "totalDeaths": 210,
+    "hospitalCases": 10121,
+    "newCasesByPublishDate": 5530
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-03-01",
+    "totalDeaths": 253,
+    "hospitalCases": 10765,
+    "newCasesByPublishDate": 4738
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-28",
+    "totalDeaths": 257,
+    "hospitalCases": 10663,
+    "newCasesByPublishDate": 5080
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-27",
+    "totalDeaths": 264,
+    "hospitalCases": 11090,
+    "newCasesByPublishDate": 6527
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-26",
+    "totalDeaths": 261,
+    "hospitalCases": 11781,
+    "newCasesByPublishDate": 7393
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-25",
+    "totalDeaths": 307,
+    "hospitalCases": 12449,
+    "newCasesByPublishDate": 8623
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-24",
+    "totalDeaths": 316,
+    "hospitalCases": 13007,
+    "newCasesByPublishDate": 8644
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-23",
+    "totalDeaths": 335,
+    "hospitalCases": 13511,
+    "newCasesByPublishDate": 7292
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-22",
+    "totalDeaths": 325,
+    "hospitalCases": 14137,
+    "newCasesByPublishDate": 9420
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-21",
+    "totalDeaths": 355,
+    "hospitalCases": 14142,
+    "newCasesByPublishDate": 8408
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-20",
+    "totalDeaths": 388,
+    "hospitalCases": 14316,
+    "newCasesByPublishDate": 8964
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-19",
+    "totalDeaths": 390,
+    "hospitalCases": 15018,
+    "newCasesByPublishDate": 10296
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-18",
+    "totalDeaths": 454,
+    "hospitalCases": 15633,
+    "newCasesByPublishDate": 10740
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-17",
+    "totalDeaths": 437,
+    "hospitalCases": 16458,
+    "newCasesByPublishDate": 10926
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-16",
+    "totalDeaths": 499,
+    "hospitalCases": 17093,
+    "newCasesByPublishDate": 9236
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-15",
+    "totalDeaths": 549,
+    "hospitalCases": 17730,
+    "newCasesByPublishDate": 8609
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-14",
+    "totalDeaths": 520,
+    "hospitalCases": 17787,
+    "newCasesByPublishDate": 9499
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-13",
+    "totalDeaths": 512,
+    "hospitalCases": 17694,
+    "newCasesByPublishDate": 11697
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-12",
+    "totalDeaths": 545,
+    "hospitalCases": 19009,
+    "newCasesByPublishDate": 13299
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-11",
+    "totalDeaths": 590,
+    "hospitalCases": 19983,
+    "newCasesByPublishDate": 12001
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-10",
+    "totalDeaths": 629,
+    "hospitalCases": 20926,
+    "newCasesByPublishDate": 11551
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-09",
+    "totalDeaths": 628,
+    "hospitalCases": 22067,
+    "newCasesByPublishDate": 10916
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-08",
+    "totalDeaths": 700,
+    "hospitalCases": 23020,
+    "newCasesByPublishDate": 12270
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-07",
+    "totalDeaths": 664,
+    "hospitalCases": 22991,
+    "newCasesByPublishDate": 14466
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-06",
+    "totalDeaths": 686,
+    "hospitalCases": 23042,
+    "newCasesByPublishDate": 16302
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-05",
+    "totalDeaths": 769,
+    "hospitalCases": 24402,
+    "newCasesByPublishDate": 17314
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-04",
+    "totalDeaths": 735,
+    "hospitalCases": 25334,
+    "newCasesByPublishDate": 18529
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-03",
+    "totalDeaths": 871,
+    "hospitalCases": 26374,
+    "newCasesByPublishDate": 17265
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-02",
+    "totalDeaths": 852,
+    "hospitalCases": 27397,
+    "newCasesByPublishDate": 15021
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-02-01",
+    "totalDeaths": 892,
+    "hospitalCases": 28539,
+    "newCasesByPublishDate": 16815
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-31",
+    "totalDeaths": 898,
+    "hospitalCases": 28112,
+    "newCasesByPublishDate": 19054
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-30",
+    "totalDeaths": 923,
+    "hospitalCases": 28571,
+    "newCasesByPublishDate": 21089
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-29",
+    "totalDeaths": 1008,
+    "hospitalCases": 29359,
+    "newCasesByPublishDate": 26709
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-28",
+    "totalDeaths": 1110,
+    "hospitalCases": 30333,
+    "newCasesByPublishDate": 26182
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-27",
+    "totalDeaths": 1108,
+    "hospitalCases": 30846,
+    "newCasesByPublishDate": 22914
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-26",
+    "totalDeaths": 1046,
+    "hospitalCases": 32337,
+    "newCasesByPublishDate": 17920
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-25",
+    "totalDeaths": 1150,
+    "hospitalCases": 32938,
+    "newCasesByPublishDate": 20149
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-24",
+    "totalDeaths": 1086,
+    "hospitalCases": 32907,
+    "newCasesByPublishDate": 27580
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-23",
+    "totalDeaths": 1146,
+    "hospitalCases": 32614,
+    "newCasesByPublishDate": 30496
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-22",
+    "totalDeaths": 1187,
+    "hospitalCases": 33412,
+    "newCasesByPublishDate": 37115
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-21",
+    "totalDeaths": 1203,
+    "hospitalCases": 33235,
+    "newCasesByPublishDate": 34371
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-20",
+    "totalDeaths": 1236,
+    "hospitalCases": 33886,
+    "newCasesByPublishDate": 35061
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-19",
+    "totalDeaths": 1327,
+    "hospitalCases": 34015,
+    "newCasesByPublishDate": 30371
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-18",
+    "totalDeaths": 1242,
+    "hospitalCases": 34336,
+    "newCasesByPublishDate": 34134
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-17",
+    "totalDeaths": 1229,
+    "hospitalCases": 33352,
+    "newCasesByPublishDate": 35263
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-16",
+    "totalDeaths": 1240,
+    "hospitalCases": 32923,
+    "newCasesByPublishDate": 37759
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-15",
+    "totalDeaths": 1161,
+    "hospitalCases": 33362,
+    "newCasesByPublishDate": 50741
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-14",
+    "totalDeaths": 1166,
+    "hospitalCases": 32925,
+    "newCasesByPublishDate": 44358
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-13",
+    "totalDeaths": 1160,
+    "hospitalCases": 32689,
+    "newCasesByPublishDate": 42898
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-12",
+    "totalDeaths": 1171,
+    "hospitalCases": 32202,
+    "newCasesByPublishDate": 41121
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-11",
+    "totalDeaths": 1073,
+    "hospitalCases": 32070,
+    "newCasesByPublishDate": 41835
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-10",
+    "totalDeaths": 1030,
+    "hospitalCases": 30758,
+    "newCasesByPublishDate": 50291
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-09",
+    "totalDeaths": 974,
+    "hospitalCases": 29462,
+    "newCasesByPublishDate": 54257
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-08",
+    "totalDeaths": 922,
+    "hospitalCases": 29346,
+    "newCasesByPublishDate": 61757
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-07",
+    "totalDeaths": 917,
+    "hospitalCases": 28246,
+    "newCasesByPublishDate": 46841
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-06",
+    "totalDeaths": 882,
+    "hospitalCases": 27727,
+    "newCasesByPublishDate": 56060
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-05",
+    "totalDeaths": 856,
+    "hospitalCases": 26467,
+    "newCasesByPublishDate": 54940
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-04",
+    "totalDeaths": 790,
+    "hospitalCases": 26626,
+    "newCasesByPublishDate": 53180
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-03",
+    "totalDeaths": 684,
+    "hospitalCases": 24957,
+    "newCasesByPublishDate": 46853
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-02",
+    "totalDeaths": 726,
+    "hospitalCases": 23557,
+    "newCasesByPublishDate": 49248
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2021-01-01",
+    "totalDeaths": 689,
+    "hospitalCases": 22534,
+    "newCasesByPublishDate": 50746
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-31",
+    "totalDeaths": 701,
+    "hospitalCases": 22728,
+    "newCasesByPublishDate": 49510
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-30",
+    "totalDeaths": 655,
+    "hospitalCases": 22713,
+    "newCasesByPublishDate": 43554
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-29",
+    "totalDeaths": 614,
+    "hospitalCases": 21787,
+    "newCasesByPublishDate": 47164
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-28",
+    "totalDeaths": 615,
+    "hospitalCases": 20426,
+    "newCasesByPublishDate": 36511
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-27",
+    "totalDeaths": 612,
+    "hospitalCases": 19277,
+    "newCasesByPublishDate": 25619
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-26",
+    "totalDeaths": 593,
+    "hospitalCases": 18350,
+    "newCasesByPublishDate": 31307
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-25",
+    "totalDeaths": 558,
+    "hospitalCases": 17701,
+    "newCasesByPublishDate": 31560
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-24",
+    "totalDeaths": 503,
+    "hospitalCases": 18227,
+    "newCasesByPublishDate": 35561
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-23",
+    "totalDeaths": 519,
+    "hospitalCases": 17834,
+    "newCasesByPublishDate": 34247
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-22",
+    "totalDeaths": 539,
+    "hospitalCases": 18063,
+    "newCasesByPublishDate": 32288
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-21",
+    "totalDeaths": 506,
+    "hospitalCases": 17709,
+    "newCasesByPublishDate": 28742
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-20",
+    "totalDeaths": 455,
+    "hospitalCases": 16633,
+    "newCasesByPublishDate": 32155
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-19",
+    "totalDeaths": 457,
+    "hospitalCases": 16183,
+    "newCasesByPublishDate": 22775
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-18",
+    "totalDeaths": 478,
+    "hospitalCases": 15866,
+    "newCasesByPublishDate": 24452
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-17",
+    "totalDeaths": 463,
+    "hospitalCases": 15741,
+    "newCasesByPublishDate": 22401
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-16",
+    "totalDeaths": 386,
+    "hospitalCases": 15465,
+    "newCasesByPublishDate": 23432
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-15",
+    "totalDeaths": 408,
+    "hospitalCases": 15031,
+    "newCasesByPublishDate": 16504
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-14",
+    "totalDeaths": 422,
+    "hospitalCases": 15053,
+    "newCasesByPublishDate": 17882
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-13",
+    "totalDeaths": 410,
+    "hospitalCases": 14460,
+    "newCasesByPublishDate": 17164
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-12",
+    "totalDeaths": 411,
+    "hospitalCases": 13927,
+    "newCasesByPublishDate": 17468
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-11",
+    "totalDeaths": 424,
+    "hospitalCases": 13901,
+    "newCasesByPublishDate": 17899
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-10",
+    "totalDeaths": 407,
+    "hospitalCases": 13796,
+    "newCasesByPublishDate": 17622
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-09",
+    "totalDeaths": 381,
+    "hospitalCases": 13467,
+    "newCasesByPublishDate": 12960
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-08",
+    "totalDeaths": 398,
+    "hospitalCases": 13629,
+    "newCasesByPublishDate": 10459
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-07",
+    "totalDeaths": 379,
+    "hospitalCases": 13616,
+    "newCasesByPublishDate": 11623
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-06",
+    "totalDeaths": 363,
+    "hospitalCases": 13189,
+    "newCasesByPublishDate": 14294
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-05",
+    "totalDeaths": 345,
+    "hospitalCases": 12968,
+    "newCasesByPublishDate": 12666
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-04",
+    "totalDeaths": 420,
+    "hospitalCases": 12987,
+    "newCasesByPublishDate": 13412
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-03",
+    "totalDeaths": 410,
+    "hospitalCases": 12896,
+    "newCasesByPublishDate": 11992
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-02",
+    "totalDeaths": 348,
+    "hospitalCases": 13212,
+    "newCasesByPublishDate": 13323
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-12-01",
+    "totalDeaths": 359,
+    "hospitalCases": 13507,
+    "newCasesByPublishDate": 11618
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-30",
+    "totalDeaths": 385,
+    "hospitalCases": 13756,
+    "newCasesByPublishDate": 10869
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-29",
+    "totalDeaths": 423,
+    "hospitalCases": 13521,
+    "newCasesByPublishDate": 10054
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-28",
+    "totalDeaths": 389,
+    "hospitalCases": 13208,
+    "newCasesByPublishDate": 13323
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-27",
+    "totalDeaths": 387,
+    "hospitalCases": 13754,
+    "newCasesByPublishDate": 13557
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-26",
+    "totalDeaths": 380,
+    "hospitalCases": 13908,
+    "newCasesByPublishDate": 14637
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-25",
+    "totalDeaths": 436,
+    "hospitalCases": 14240,
+    "newCasesByPublishDate": 15893
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-24",
+    "totalDeaths": 423,
+    "hospitalCases": 14506,
+    "newCasesByPublishDate": 9854
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-23",
+    "totalDeaths": 429,
+    "hospitalCases": 14712,
+    "newCasesByPublishDate": 13329
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-22",
+    "totalDeaths": 420,
+    "hospitalCases": 14354,
+    "newCasesByPublishDate": 16668
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-21",
+    "totalDeaths": 413,
+    "hospitalCases": 14118,
+    "newCasesByPublishDate": 17615
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-20",
+    "totalDeaths": 407,
+    "hospitalCases": 14236,
+    "newCasesByPublishDate": 17845
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-19",
+    "totalDeaths": 407,
+    "hospitalCases": 14479,
+    "newCasesByPublishDate": 20291
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-18",
+    "totalDeaths": 444,
+    "hospitalCases": 14490,
+    "newCasesByPublishDate": 17189
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-17",
+    "totalDeaths": 378,
+    "hospitalCases": 14411,
+    "newCasesByPublishDate": 17549
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-16",
+    "totalDeaths": 362,
+    "hospitalCases": 14313,
+    "newCasesByPublishDate": 19423
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-15",
+    "totalDeaths": 375,
+    "hospitalCases": 13886,
+    "newCasesByPublishDate": 21998
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-14",
+    "totalDeaths": 367,
+    "hospitalCases": 13399,
+    "newCasesByPublishDate": 24298
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-13",
+    "totalDeaths": 352,
+    "hospitalCases": 13328,
+    "newCasesByPublishDate": 24540
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-12",
+    "totalDeaths": 357,
+    "hospitalCases": 12967,
+    "newCasesByPublishDate": 30843
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-11",
+    "totalDeaths": 317,
+    "hospitalCases": 12730,
+    "newCasesByPublishDate": 19970
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-10",
+    "totalDeaths": 329,
+    "hospitalCases": 12033,
+    "newCasesByPublishDate": 18622
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-09",
+    "totalDeaths": 404,
+    "hospitalCases": 12259,
+    "newCasesByPublishDate": 19036
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-08",
+    "totalDeaths": 347,
+    "hospitalCases": 11680,
+    "newCasesByPublishDate": 18293
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-07",
+    "totalDeaths": 348,
+    "hospitalCases": 11514,
+    "newCasesByPublishDate": 21875
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-06",
+    "totalDeaths": 339,
+    "hospitalCases": 11181,
+    "newCasesByPublishDate": 20268
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-05",
+    "totalDeaths": 300,
+    "hospitalCases": 10994,
+    "newCasesByPublishDate": 21137
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-04",
+    "totalDeaths": 283,
+    "hospitalCases": 11037,
+    "newCasesByPublishDate": 21863
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-03",
+    "totalDeaths": 304,
+    "hospitalCases": 10971,
+    "newCasesByPublishDate": 17330
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-02",
+    "totalDeaths": 279,
+    "hospitalCases": 10397,
+    "newCasesByPublishDate": 15860
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-11-01",
+    "totalDeaths": 283,
+    "hospitalCases": 9623,
+    "newCasesByPublishDate": 20602
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-31",
+    "totalDeaths": 277,
+    "hospitalCases": 9782,
+    "newCasesByPublishDate": 18864
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-30",
+    "totalDeaths": 284,
+    "hospitalCases": 9295,
+    "newCasesByPublishDate": 20821
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-29",
+    "totalDeaths": 253,
+    "hospitalCases": 9127,
+    "newCasesByPublishDate": 19740
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-28",
+    "totalDeaths": 228,
+    "hospitalCases": 9070,
+    "newCasesByPublishDate": 21245
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-27",
+    "totalDeaths": 226,
+    "hospitalCases": 8595,
+    "newCasesByPublishDate": 19629
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-26",
+    "totalDeaths": 218,
+    "hospitalCases": 7856,
+    "newCasesByPublishDate": 17883
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-25",
+    "totalDeaths": 207,
+    "hospitalCases": 7612,
+    "newCasesByPublishDate": 16487
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-24",
+    "totalDeaths": 174,
+    "hospitalCases": 7176,
+    "newCasesByPublishDate": 19332
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-23",
+    "totalDeaths": 183,
+    "hospitalCases": 6842,
+    "newCasesByPublishDate": 17116
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-22",
+    "totalDeaths": 186,
+    "hospitalCases": 6345,
+    "newCasesByPublishDate": 17354
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-21",
+    "totalDeaths": 196,
+    "hospitalCases": 6271,
+    "newCasesByPublishDate": 22948
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-20",
+    "totalDeaths": 177,
+    "hospitalCases": 6072,
+    "newCasesByPublishDate": 17814
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-19",
+    "totalDeaths": 155,
+    "hospitalCases": 5644,
+    "newCasesByPublishDate": 16365
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-18",
+    "totalDeaths": 124,
+    "hospitalCases": 5202,
+    "newCasesByPublishDate": 14704
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-17",
+    "totalDeaths": 168,
+    "hospitalCases": 5029,
+    "newCasesByPublishDate": 13299
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-16",
+    "totalDeaths": 125,
+    "hospitalCases": 4854,
+    "newCasesByPublishDate": 12176
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-15",
+    "totalDeaths": 124,
+    "hospitalCases": 4569,
+    "newCasesByPublishDate": 16139
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-14",
+    "totalDeaths": 104,
+    "hospitalCases": 4313,
+    "newCasesByPublishDate": 16132
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-13",
+    "totalDeaths": 94,
+    "hospitalCases": 4105,
+    "newCasesByPublishDate": 14310
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-12",
+    "totalDeaths": 94,
+    "hospitalCases": 3827,
+    "newCasesByPublishDate": 11647
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-11",
+    "totalDeaths": 106,
+    "hospitalCases": 3604,
+    "newCasesByPublishDate": 10383
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-10",
+    "totalDeaths": 87,
+    "hospitalCases": 3369,
+    "newCasesByPublishDate": 12628
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-09",
+    "totalDeaths": 82,
+    "hospitalCases": 3238,
+    "newCasesByPublishDate": 10772
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-08",
+    "totalDeaths": 80,
+    "hospitalCases": 3179,
+    "newCasesByPublishDate": 14952
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-07",
+    "totalDeaths": 88,
+    "hospitalCases": 3066,
+    "newCasesByPublishDate": 11528
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-06",
+    "totalDeaths": 69,
+    "hospitalCases": 2903,
+    "newCasesByPublishDate": 12648
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-05",
+    "totalDeaths": 54,
+    "hospitalCases": 2705,
+    "newCasesByPublishDate": 10685
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-04",
+    "totalDeaths": 55,
+    "hospitalCases": 2435,
+    "newCasesByPublishDate": 21309
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-03",
+    "totalDeaths": 56,
+    "hospitalCases": 2290,
+    "newCasesByPublishDate": 10806
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-02",
+    "totalDeaths": 69,
+    "hospitalCases": 2180,
+    "newCasesByPublishDate": 4797
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-10-01",
+    "totalDeaths": 56,
+    "hospitalCases": 2069,
+    "newCasesByPublishDate": 5589
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-30",
+    "totalDeaths": 53,
+    "hospitalCases": 2036,
+    "newCasesByPublishDate": 5656
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-29",
+    "totalDeaths": 42,
+    "hospitalCases": 1954,
+    "newCasesByPublishDate": 5651
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-28",
+    "totalDeaths": 47,
+    "hospitalCases": 1955,
+    "newCasesByPublishDate": 3316
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-27",
+    "totalDeaths": 49,
+    "hospitalCases": 1793,
+    "newCasesByPublishDate": 4800
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-26",
+    "totalDeaths": 43,
+    "hospitalCases": 1689,
+    "newCasesByPublishDate": 4639
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-25",
+    "totalDeaths": 35,
+    "hospitalCases": 1686,
+    "newCasesByPublishDate": 5723
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-24",
+    "totalDeaths": 33,
+    "hospitalCases": 1546,
+    "newCasesByPublishDate": 5632
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-23",
+    "totalDeaths": 52,
+    "hospitalCases": 1439,
+    "newCasesByPublishDate": 5083
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-22",
+    "totalDeaths": 32,
+    "hospitalCases": 1378,
+    "newCasesByPublishDate": 4187
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-21",
+    "totalDeaths": 26,
+    "hospitalCases": 1299,
+    "newCasesByPublishDate": 3754
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-20",
+    "totalDeaths": 34,
+    "hospitalCases": 1174,
+    "newCasesByPublishDate": 3279
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-19",
+    "totalDeaths": 22,
+    "hospitalCases": 1081,
+    "newCasesByPublishDate": 3638
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-18",
+    "totalDeaths": 25,
+    "hospitalCases": 1020,
+    "newCasesByPublishDate": 3771
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-17",
+    "totalDeaths": 34,
+    "hospitalCases": 984,
+    "newCasesByPublishDate": 2788
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-16",
+    "totalDeaths": 25,
+    "hospitalCases": 929,
+    "newCasesByPublishDate": 3396
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-15",
+    "totalDeaths": 22,
+    "hospitalCases": 891,
+    "newCasesByPublishDate": 2649
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-14",
+    "totalDeaths": 17,
+    "hospitalCases": 812,
+    "newCasesByPublishDate": 2259
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-13",
+    "totalDeaths": 18,
+    "hospitalCases": 691,
+    "newCasesByPublishDate": 2837
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-12",
+    "totalDeaths": 21,
+    "hospitalCases": 663,
+    "newCasesByPublishDate": 3008
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-11",
+    "totalDeaths": 15,
+    "hospitalCases": 622,
+    "newCasesByPublishDate": 3143
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-10",
+    "totalDeaths": 15,
+    "hospitalCases": 572,
+    "newCasesByPublishDate": 2578
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-09",
+    "totalDeaths": 10,
+    "hospitalCases": 557,
+    "newCasesByPublishDate": 2286
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-08",
+    "totalDeaths": 15,
+    "hospitalCases": 535,
+    "newCasesByPublishDate": 2094
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-07",
+    "totalDeaths": 20,
+    "hospitalCases": 555,
+    "newCasesByPublishDate": 2528
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-06",
+    "totalDeaths": 13,
+    "hospitalCases": 483,
+    "newCasesByPublishDate": 2576
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-05",
+    "totalDeaths": 12,
+    "hospitalCases": 471,
+    "newCasesByPublishDate": 1477
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-04",
+    "totalDeaths": 14,
+    "hospitalCases": 474,
+    "newCasesByPublishDate": 1669
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-03",
+    "totalDeaths": 6,
+    "hospitalCases": 468,
+    "newCasesByPublishDate": 1507
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-02",
+    "totalDeaths": 13,
+    "hospitalCases": 451,
+    "newCasesByPublishDate": 1239
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-09-01",
+    "totalDeaths": 9,
+    "hospitalCases": 496,
+    "newCasesByPublishDate": 1041
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-31",
+    "totalDeaths": 16,
+    "hospitalCases": 495,
+    "newCasesByPublishDate": 1149
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-30",
+    "totalDeaths": 8,
+    "hospitalCases": 479,
+    "newCasesByPublishDate": 1487
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-29",
+    "totalDeaths": 8,
+    "hospitalCases": 478,
+    "newCasesByPublishDate": 891
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-28",
+    "totalDeaths": 11,
+    "hospitalCases": 469,
+    "newCasesByPublishDate": 1106
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-27",
+    "totalDeaths": 11,
+    "hospitalCases": 492,
+    "newCasesByPublishDate": 1350
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-26",
+    "totalDeaths": 15,
+    "hospitalCases": 485,
+    "newCasesByPublishDate": 875
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-25",
+    "totalDeaths": 19,
+    "hospitalCases": 500,
+    "newCasesByPublishDate": 1065
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-24",
+    "totalDeaths": 8,
+    "hospitalCases": 522,
+    "newCasesByPublishDate": 758
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-23",
+    "totalDeaths": 16,
+    "hospitalCases": 522,
+    "newCasesByPublishDate": 938
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-22",
+    "totalDeaths": 11,
+    "hospitalCases": 594,
+    "newCasesByPublishDate": 1060
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-21",
+    "totalDeaths": 9,
+    "hospitalCases": 528,
+    "newCasesByPublishDate": 908
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-20",
+    "totalDeaths": 16,
+    "hospitalCases": 551,
+    "newCasesByPublishDate": 1035
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-19",
+    "totalDeaths": 10,
+    "hospitalCases": 571,
+    "newCasesByPublishDate": 707
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-18",
+    "totalDeaths": 11,
+    "hospitalCases": 597,
+    "newCasesByPublishDate": 975
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-17",
+    "totalDeaths": 19,
+    "hospitalCases": 626,
+    "newCasesByPublishDate": 634
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-16",
+    "totalDeaths": 12,
+    "hospitalCases": 634,
+    "newCasesByPublishDate": 952
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-15",
+    "totalDeaths": 21,
+    "hospitalCases": 630,
+    "newCasesByPublishDate": 934
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-14",
+    "totalDeaths": 15,
+    "hospitalCases": 642,
+    "newCasesByPublishDate": 1284
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-13",
+    "totalDeaths": 18,
+    "hospitalCases": 652,
+    "newCasesByPublishDate": 1059
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-12",
+    "totalDeaths": 20,
+    "hospitalCases": 642,
+    "newCasesByPublishDate": 925
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-11",
+    "totalDeaths": 20,
+    "hospitalCases": 672,
+    "newCasesByPublishDate": 1035
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-10",
+    "totalDeaths": 23,
+    "hospitalCases": 714,
+    "newCasesByPublishDate": 699
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-09",
+    "totalDeaths": 18,
+    "hospitalCases": 611,
+    "newCasesByPublishDate": 988
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-08",
+    "totalDeaths": 18,
+    "hospitalCases": 650,
+    "newCasesByPublishDate": 679
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-07",
+    "totalDeaths": 19,
+    "hospitalCases": 711,
+    "newCasesByPublishDate": 796
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-06",
+    "totalDeaths": 17,
+    "hospitalCases": 756,
+    "newCasesByPublishDate": 826
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-05",
+    "totalDeaths": 7,
+    "hospitalCases": 805,
+    "newCasesByPublishDate": 804
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-04",
+    "totalDeaths": 20,
+    "hospitalCases": 807,
+    "newCasesByPublishDate": 617
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-03",
+    "totalDeaths": 19,
+    "hospitalCases": 842,
+    "newCasesByPublishDate": 856
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-02",
+    "totalDeaths": 15,
+    "hospitalCases": 847,
+    "newCasesByPublishDate": 676
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-08-01",
+    "totalDeaths": 16,
+    "hospitalCases": 879,
+    "newCasesByPublishDate": 722
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-31",
+    "totalDeaths": 26,
+    "hospitalCases": 870,
+    "newCasesByPublishDate": 814
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-30",
+    "totalDeaths": 14,
+    "hospitalCases": 898,
+    "newCasesByPublishDate": 812
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-29",
+    "totalDeaths": 21,
+    "hospitalCases": 927,
+    "newCasesByPublishDate": 700
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-28",
+    "totalDeaths": 20,
+    "hospitalCases": 944,
+    "newCasesByPublishDate": 547
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-27",
+    "totalDeaths": 16,
+    "hospitalCases": 945,
+    "newCasesByPublishDate": 616
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-26",
+    "totalDeaths": 28,
+    "hospitalCases": 965,
+    "newCasesByPublishDate": 721
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-25",
+    "totalDeaths": 20,
+    "hospitalCases": 977,
+    "newCasesByPublishDate": 710
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-24",
+    "totalDeaths": 17,
+    "hospitalCases": 1018,
+    "newCasesByPublishDate": 688
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-23",
+    "totalDeaths": 33,
+    "hospitalCases": 1095,
+    "newCasesByPublishDate": 702
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-22",
+    "totalDeaths": 34,
+    "hospitalCases": 1305,
+    "newCasesByPublishDate": 519
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-21",
+    "totalDeaths": 30,
+    "hospitalCases": 1188,
+    "newCasesByPublishDate": 399
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-20",
+    "totalDeaths": 29,
+    "hospitalCases": 1278,
+    "newCasesByPublishDate": 535
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-19",
+    "totalDeaths": 22,
+    "hospitalCases": 1301,
+    "newCasesByPublishDate": 672
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-18",
+    "totalDeaths": 28,
+    "hospitalCases": 1321,
+    "newCasesByPublishDate": 796
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-17",
+    "totalDeaths": 31,
+    "hospitalCases": 1346,
+    "newCasesByPublishDate": 635
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-16",
+    "totalDeaths": 18,
+    "hospitalCases": 1348,
+    "newCasesByPublishDate": 597
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-15",
+    "totalDeaths": 39,
+    "hospitalCases": 1489,
+    "newCasesByPublishDate": 506
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-14",
+    "totalDeaths": 38,
+    "hospitalCases": 1506,
+    "newCasesByPublishDate": 372
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-13",
+    "totalDeaths": 42,
+    "hospitalCases": 1612,
+    "newCasesByPublishDate": 497
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-12",
+    "totalDeaths": 29,
+    "hospitalCases": 1611,
+    "newCasesByPublishDate": 615
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-11",
+    "totalDeaths": 33,
+    "hospitalCases": 1640,
+    "newCasesByPublishDate": 806
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-10",
+    "totalDeaths": 42,
+    "hospitalCases": 1746,
+    "newCasesByPublishDate": 480
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-09",
+    "totalDeaths": 56,
+    "hospitalCases": 1801,
+    "newCasesByPublishDate": 617
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-08",
+    "totalDeaths": 44,
+    "hospitalCases": 1888,
+    "newCasesByPublishDate": 606
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-07",
+    "totalDeaths": 41,
+    "hospitalCases": 2010,
+    "newCasesByPublishDate": 572
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-06",
+    "totalDeaths": 48,
+    "hospitalCases": 2099,
+    "newCasesByPublishDate": 331
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-05",
+    "totalDeaths": 44,
+    "hospitalCases": 2100,
+    "newCasesByPublishDate": 492
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-04",
+    "totalDeaths": 46,
+    "hospitalCases": 2152,
+    "newCasesByPublishDate": 579
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-03",
+    "totalDeaths": 45,
+    "hospitalCases": 2294,
+    "newCasesByPublishDate": 502
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-02",
+    "totalDeaths": 55,
+    "hospitalCases": 2410,
+    "newCasesByPublishDate": 523
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-07-01",
+    "totalDeaths": 44,
+    "hospitalCases": 2509,
+    "newCasesByPublishDate": 177
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-30",
+    "totalDeaths": 71,
+    "hospitalCases": 2665,
+    "newCasesByPublishDate": 196
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-29",
+    "totalDeaths": 63,
+    "hospitalCases": 3024,
+    "newCasesByPublishDate": 99
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-28",
+    "totalDeaths": 62,
+    "hospitalCases": 2818,
+    "newCasesByPublishDate": 142
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-27",
+    "totalDeaths": 61,
+    "hospitalCases": 2819,
+    "newCasesByPublishDate": 192
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-26",
+    "totalDeaths": 70,
+    "hospitalCases": 2859,
+    "newCasesByPublishDate": 175
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-25",
+    "totalDeaths": 97,
+    "hospitalCases": 3066,
+    "newCasesByPublishDate": 261
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-24",
+    "totalDeaths": 93,
+    "hospitalCases": 3223,
+    "newCasesByPublishDate": 107
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-23",
+    "totalDeaths": 89,
+    "hospitalCases": 3288,
+    "newCasesByPublishDate": 210
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-22",
+    "totalDeaths": 74,
+    "hospitalCases": 3417,
+    "newCasesByPublishDate": 178
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-21",
+    "totalDeaths": 67,
+    "hospitalCases": 3373,
+    "newCasesByPublishDate": 215
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-20",
+    "totalDeaths": 76,
+    "hospitalCases": 3423,
+    "newCasesByPublishDate": 324
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-19",
+    "totalDeaths": 76,
+    "hospitalCases": 3575,
+    "newCasesByPublishDate": 323
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-18",
+    "totalDeaths": 79,
+    "hospitalCases": 3681,
+    "newCasesByPublishDate": 281
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-17",
+    "totalDeaths": 91,
+    "hospitalCases": 3826,
+    "newCasesByPublishDate": 252
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-16",
+    "totalDeaths": 103,
+    "hospitalCases": 3934,
+    "newCasesByPublishDate": 252
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-15",
+    "totalDeaths": 92,
+    "hospitalCases": 3920,
+    "newCasesByPublishDate": 219
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-14",
+    "totalDeaths": 119,
+    "hospitalCases": 3973,
+    "newCasesByPublishDate": 292
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-13",
+    "totalDeaths": 85,
+    "hospitalCases": 4000,
+    "newCasesByPublishDate": 372
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-12",
+    "totalDeaths": 122,
+    "hospitalCases": 4136,
+    "newCasesByPublishDate": 392
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-11",
+    "totalDeaths": 108,
+    "hospitalCases": 4179,
+    "newCasesByPublishDate": 304
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-10",
+    "totalDeaths": 142,
+    "hospitalCases": 4447,
+    "newCasesByPublishDate": 63
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-09",
+    "totalDeaths": 127,
+    "hospitalCases": 4665,
+    "newCasesByPublishDate": 651
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-08",
+    "totalDeaths": 142,
+    "hospitalCases": 4830,
+    "newCasesByPublishDate": 92
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-07",
+    "totalDeaths": 137,
+    "hospitalCases": 4820,
+    "newCasesByPublishDate": 228
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-06",
+    "totalDeaths": 129,
+    "hospitalCases": 5004,
+    "newCasesByPublishDate": 422
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-05",
+    "totalDeaths": 160,
+    "hospitalCases": 5213,
+    "newCasesByPublishDate": 451
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-04",
+    "totalDeaths": 163,
+    "hospitalCases": 5398,
+    "newCasesByPublishDate": 431
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-03",
+    "totalDeaths": 179,
+    "hospitalCases": 5600,
+    "newCasesByPublishDate": 462
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-02",
+    "totalDeaths": 204,
+    "hospitalCases": 5827,
+    "newCasesByPublishDate": 444
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-06-01",
+    "totalDeaths": 179,
+    "hospitalCases": 5954,
+    "newCasesByPublishDate": 294
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-31",
+    "totalDeaths": 175,
+    "hospitalCases": 5933,
+    "newCasesByPublishDate": 320
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-30",
+    "totalDeaths": 188,
+    "hospitalCases": 5972,
+    "newCasesByPublishDate": 715
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-29",
+    "totalDeaths": 216,
+    "hospitalCases": 6250,
+    "newCasesByPublishDate": 560
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-28",
+    "totalDeaths": 241,
+    "hospitalCases": 6528,
+    "newCasesByPublishDate": 519
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-27",
+    "totalDeaths": 233,
+    "hospitalCases": 6836,
+    "newCasesByPublishDate": 609
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-26",
+    "totalDeaths": 260,
+    "hospitalCases": 7305,
+    "newCasesByPublishDate": 492
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-25",
+    "totalDeaths": 240,
+    "hospitalCases": 7448,
+    "newCasesByPublishDate": 494
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-24",
+    "totalDeaths": 234,
+    "hospitalCases": 7415,
+    "newCasesByPublishDate": 584
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-23",
+    "totalDeaths": 255,
+    "hospitalCases": 7428,
+    "newCasesByPublishDate": 979
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-22",
+    "totalDeaths": 256,
+    "hospitalCases": 7761,
+    "newCasesByPublishDate": 1083
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-21",
+    "totalDeaths": 286,
+    "hospitalCases": 7903,
+    "newCasesByPublishDate": 854
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-20",
+    "totalDeaths": 303,
+    "hospitalCases": 8115,
+    "newCasesByPublishDate": 824
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-19",
+    "totalDeaths": 316,
+    "hospitalCases": 8518,
+    "newCasesByPublishDate": 857
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-18",
+    "totalDeaths": 344,
+    "hospitalCases": 8668,
+    "newCasesByPublishDate": 816
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-17",
+    "totalDeaths": 316,
+    "hospitalCases": 8611,
+    "newCasesByPublishDate": 788
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-16",
+    "totalDeaths": 351,
+    "hospitalCases": 8643,
+    "newCasesByPublishDate": 1136
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-15",
+    "totalDeaths": 359,
+    "hospitalCases": 9079,
+    "newCasesByPublishDate": 1112
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-14",
+    "totalDeaths": 373,
+    "hospitalCases": 9231,
+    "newCasesByPublishDate": 1189
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-13",
+    "totalDeaths": 373,
+    "hospitalCases": 9602,
+    "newCasesByPublishDate": 1146
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-12",
+    "totalDeaths": 380,
+    "hospitalCases": 9791,
+    "newCasesByPublishDate": 1067
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-11",
+    "totalDeaths": 355,
+    "hospitalCases": 10109,
+    "newCasesByPublishDate": 891
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-10",
+    "totalDeaths": 423,
+    "hospitalCases": 9893,
+    "newCasesByPublishDate": 1007
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-09",
+    "totalDeaths": 463,
+    "hospitalCases": 10176,
+    "newCasesByPublishDate": 1349
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-08",
+    "totalDeaths": 482,
+    "hospitalCases": 10249,
+    "newCasesByPublishDate": 1694
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-07",
+    "totalDeaths": 535,
+    "hospitalCases": 10726,
+    "newCasesByPublishDate": 2133
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-06",
+    "totalDeaths": 524,
+    "hospitalCases": 11227,
+    "newCasesByPublishDate": 1611
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-05",
+    "totalDeaths": 537,
+    "hospitalCases": 11754,
+    "newCasesByPublishDate": 1842
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-04",
+    "totalDeaths": 562,
+    "hospitalCases": 12020,
+    "newCasesByPublishDate": 1485
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-03",
+    "totalDeaths": 556,
+    "hospitalCases": 12119,
+    "newCasesByPublishDate": 2019
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-02",
+    "totalDeaths": 590,
+    "hospitalCases": 12314,
+    "newCasesByPublishDate": 2228
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-05-01",
+    "totalDeaths": 661,
+    "hospitalCases": 12623,
+    "newCasesByPublishDate": 2501
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-30",
+    "totalDeaths": 660,
+    "hospitalCases": 12922,
+    "newCasesByPublishDate": 2484
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-29",
+    "totalDeaths": 699,
+    "hospitalCases": 13224,
+    "newCasesByPublishDate": 1403
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-28",
+    "totalDeaths": 701,
+    "hospitalCases": 13565,
+    "newCasesByPublishDate": 1989
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-27",
+    "totalDeaths": 724,
+    "hospitalCases": 14255,
+    "newCasesByPublishDate": 2264
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-26",
+    "totalDeaths": 763,
+    "hospitalCases": 14174,
+    "newCasesByPublishDate": 2152
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-25",
+    "totalDeaths": 771,
+    "hospitalCases": 14202,
+    "newCasesByPublishDate": 2826
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-24",
+    "totalDeaths": 874,
+    "hospitalCases": 14642,
+    "newCasesByPublishDate": 3004
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-23",
+    "totalDeaths": 893,
+    "hospitalCases": 15402,
+    "newCasesByPublishDate": 3084
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-22",
+    "totalDeaths": 939,
+    "hospitalCases": 16018,
+    "newCasesByPublishDate": 3020
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-21",
+    "totalDeaths": 916,
+    "hospitalCases": 16517,
+    "newCasesByPublishDate": 3087
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-20",
+    "totalDeaths": 992,
+    "hospitalCases": 16654,
+    "newCasesByPublishDate": 2401
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-19",
+    "totalDeaths": 967,
+    "hospitalCases": 16928,
+    "newCasesByPublishDate": 3607
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-18",
+    "totalDeaths": 1030,
+    "hospitalCases": 16850,
+    "newCasesByPublishDate": 3548
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-17",
+    "totalDeaths": 1107,
+    "hospitalCases": 16728,
+    "newCasesByPublishDate": 3985
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-16",
+    "totalDeaths": 1147,
+    "hospitalCases": 17783,
+    "newCasesByPublishDate": 3118
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-15",
+    "totalDeaths": 1100,
+    "hospitalCases": 17934,
+    "newCasesByPublishDate": 3188
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-14",
+    "totalDeaths": 1080,
+    "hospitalCases": 18552,
+    "newCasesByPublishDate": 3854
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-13",
+    "totalDeaths": 1076,
+    "hospitalCases": 18621,
+    "newCasesByPublishDate": 2999
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-12",
+    "totalDeaths": 1208,
+    "hospitalCases": 18974,
+    "newCasesByPublishDate": 3672
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-11",
+    "totalDeaths": 1203,
+    "hospitalCases": 18604,
+    "newCasesByPublishDate": 3841
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-10",
+    "totalDeaths": 1163,
+    "hospitalCases": 18669,
+    "newCasesByPublishDate": 4263
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-09",
+    "totalDeaths": 1177,
+    "hospitalCases": 18423,
+    "newCasesByPublishDate": 3798
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-08",
+    "totalDeaths": 1286,
+    "hospitalCases": 18152,
+    "newCasesByPublishDate": 4788
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-07",
+    "totalDeaths": 1145,
+    "hospitalCases": 17814,
+    "newCasesByPublishDate": 2978
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-06",
+    "totalDeaths": 1025,
+    "hospitalCases": 17154,
+    "newCasesByPublishDate": 3176
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-05",
+    "totalDeaths": 1063,
+    "hospitalCases": 16657,
+    "newCasesByPublishDate": 5107
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-04",
+    "totalDeaths": 1023,
+    "hospitalCases": 15469,
+    "newCasesByPublishDate": 2910
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-03",
+    "totalDeaths": 927,
+    "hospitalCases": 13635,
+    "newCasesByPublishDate": 3576
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-02",
+    "totalDeaths": 892,
+    "hospitalCases": 12135,
+    "newCasesByPublishDate": 3583
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-04-01",
+    "totalDeaths": 826,
+    "hospitalCases": 12059,
+    "newCasesByPublishDate": 3630
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-31",
+    "totalDeaths": 741,
+    "hospitalCases": 11154,
+    "newCasesByPublishDate": 2414
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-30",
+    "totalDeaths": 631,
+    "hospitalCases": 9852,
+    "newCasesByPublishDate": 2107
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-29",
+    "totalDeaths": 531,
+    "hospitalCases": 8424,
+    "newCasesByPublishDate": 2060
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-28",
+    "totalDeaths": 449,
+    "hospitalCases": 7269,
+    "newCasesByPublishDate": 2139
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-27",
+    "totalDeaths": 416,
+    "hospitalCases": 6462,
+    "newCasesByPublishDate": 2506
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-26",
+    "totalDeaths": 370,
+    "hospitalCases": 5226,
+    "newCasesByPublishDate": 1809
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-25",
+    "totalDeaths": 299,
+    "hospitalCases": 4402,
+    "newCasesByPublishDate": 1130
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-24",
+    "totalDeaths": 237,
+    "hospitalCases": 3598,
+    "newCasesByPublishDate": 1258
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-23",
+    "totalDeaths": 188,
+    "hospitalCases": 3183,
+    "newCasesByPublishDate": 793
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-22",
+    "totalDeaths": 172,
+    "hospitalCases": 2670,
+    "newCasesByPublishDate": 535
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-21",
+    "totalDeaths": 126,
+    "hospitalCases": 2152,
+    "newCasesByPublishDate": 873
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-20",
+    "totalDeaths": 109,
+    "hospitalCases": 1580,
+    "newCasesByPublishDate": 628
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-19",
+    "totalDeaths": 71,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 574
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-18",
+    "totalDeaths": 66,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 625
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-17",
+    "totalDeaths": 54,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 361
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-16",
+    "totalDeaths": 44,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 97
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-15",
+    "totalDeaths": 28,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 253
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-14",
+    "totalDeaths": 19,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 201
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-13",
+    "totalDeaths": 16,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 159
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-12",
+    "totalDeaths": 11,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 99
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-11",
+    "totalDeaths": 7,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 63
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-10",
+    "totalDeaths": 3,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 46
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-09",
+    "totalDeaths": 5,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 40
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-08",
+    "totalDeaths": 2,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 58
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-07",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 39
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-06",
+    "totalDeaths": 2,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 39
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-05",
+    "totalDeaths": 2,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 25
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-04",
+    "totalDeaths": 1,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 32
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-03",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 11
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-02",
+    "totalDeaths": 1,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 4
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-03-01",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 12
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-29",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 3
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-28",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 5
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-27",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-26",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-25",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-24",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 4
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-23",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-22",
+    "totalDeaths": 1,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-21",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-20",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-19",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-18",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-17",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-16",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-15",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-14",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-13",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 1
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-12",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-11",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-10",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 4
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-09",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 1
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-08",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-07",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-06",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 1
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-05",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-04",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-03",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-02",
+    "totalDeaths": 1,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-02-01",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 0
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-01-31",
+    "totalDeaths": 0,
+    "hospitalCases": null,
+    "newCasesByPublishDate": 2
+  },
+  {
+    "areaCode": "E92000001",
+    "areaName": "England",
+    "areaType": "nation",
+    "date": "2020-01-30",
+    "totalDeaths": 1,
+    "hospitalCases": null,
+    "newCasesByPublishDate": null
+  }
+]

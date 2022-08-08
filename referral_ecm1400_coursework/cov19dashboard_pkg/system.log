@@ -1,0 +1,152 @@
+03/08/2022 01:28:21 PM :: urllib3.connectionpool :: DEBUG :: _new_conn :: 971 :: Starting new HTTPS connection (1): newsapi.org:443
+03/08/2022 01:28:21 PM :: urllib3.connectionpool :: DEBUG :: _make_request :: 452 :: https://newsapi.org:443 "GET /v2/everything?q=Covid%20COVID-19%20coronavirus&apiKey=09744b0b7cbe40609b6b36e224cdb969 HTTP/1.1" 200 None
+03/08/2022 01:28:21 PM :: covid_news_handling :: DEBUG :: update_news :: 63 :: Beginning to update news...
+03/08/2022 01:28:21 PM :: urllib3.connectionpool :: DEBUG :: _new_conn :: 971 :: Starting new HTTPS connection (1): newsapi.org:443
+03/08/2022 01:28:21 PM :: urllib3.connectionpool :: DEBUG :: _make_request :: 452 :: https://newsapi.org:443 "GET /v2/everything?q=Covid%20COVID-19%20coronavirus&apiKey=09744b0b7cbe40609b6b36e224cdb969 HTTP/1.1" 200 None
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: covid_news_handling :: INFO :: update_news :: 72 :: News article appended.
+03/08/2022 01:28:21 PM :: __main__ :: DEBUG :: covid_API_request :: 195 :: Processing the covid api request...
+03/08/2022 01:28:21 PM :: urllib3.connectionpool :: DEBUG :: _new_conn :: 971 :: Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+03/08/2022 01:28:21 PM :: urllib3.connectionpool :: DEBUG :: _make_request :: 452 :: https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dltla%3BareaName%3DExeter&structure=%7B%22areaCode%22%3A%22areaCode%22%2C%22areaName%22%3A%22areaName%22%2C%22areaType%22%3A%22areaType%22%2C%22date%22%3A%22date%22%2C%22totalDeaths%22%3A%22newDailyNsoDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+03/08/2022 01:28:21 PM :: urllib3.connectionpool :: DEBUG :: _new_conn :: 971 :: Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+03/08/2022 01:28:22 PM :: urllib3.connectionpool :: DEBUG :: _make_request :: 452 :: https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dltla%3BareaName%3DExeter&structure=%7B%22areaCode%22%3A%22areaCode%22%2C%22areaName%22%3A%22areaName%22%2C%22areaType%22%3A%22areaType%22%2C%22date%22%3A%22date%22%2C%22totalDeaths%22%3A%22newDailyNsoDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+03/08/2022 01:28:22 PM :: __main__ :: INFO :: covid_API_request :: 199 :: Json file with COVID19 api data made.
+03/08/2022 01:28:22 PM :: __main__ :: DEBUG :: covid_API_request :: 195 :: Processing the covid api request...
+03/08/2022 01:28:22 PM :: urllib3.connectionpool :: DEBUG :: _new_conn :: 971 :: Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+03/08/2022 01:28:22 PM :: urllib3.connectionpool :: DEBUG :: _make_request :: 452 :: https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dnation%3BareaName%3DEngland&structure=%7B%22areaCode%22%3A%22areaCode%22%2C%22areaName%22%3A%22areaName%22%2C%22areaType%22%3A%22areaType%22%2C%22date%22%3A%22date%22%2C%22totalDeaths%22%3A%22newDailyNsoDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+03/08/2022 01:28:22 PM :: urllib3.connectionpool :: DEBUG :: _new_conn :: 971 :: Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+03/08/2022 01:28:23 PM :: urllib3.connectionpool :: DEBUG :: _make_request :: 452 :: https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dnation%3BareaName%3DEngland&structure=%7B%22areaCode%22%3A%22areaCode%22%2C%22areaName%22%3A%22areaName%22%2C%22areaType%22%3A%22areaType%22%2C%22date%22%3A%22date%22%2C%22totalDeaths%22%3A%22newDailyNsoDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: covid_API_request :: 199 :: Json file with COVID19 api data made.
+03/08/2022 01:28:23 PM :: numexpr.utils :: INFO :: _init_num_threads :: 157 :: NumExpr defaulting to 4 threads.
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 113 :: Opening and reading .csv file...
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 123 :: Creating list of strings for rows in file...
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: parse_csv_data :: 127 :: List successfully created!
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: process_covid_csv_data :: 135 :: Beginning to process csv covid data...
+03/08/2022 01:28:23 PM :: root :: INFO :: process_covid_csv_data :: 156 :: Covid csv data successfully split, interated through, and organised into lists.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 167 :: Last 7 day cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 171 :: Current hospital cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: ERROR :: process_covid_csv_data :: 183 :: Error occured, showing output as 0.
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 113 :: Opening and reading .csv file...
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 123 :: Creating list of strings for rows in file...
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: parse_csv_data :: 127 :: List successfully created!
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: process_covid_csv_data :: 135 :: Beginning to process csv covid data...
+03/08/2022 01:28:23 PM :: root :: INFO :: process_covid_csv_data :: 156 :: Covid csv data successfully split, interated through, and organised into lists.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 167 :: Last 7 day cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 171 :: Current hospital cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 181 :: Total deaths calculated.
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 113 :: Opening and reading .csv file...
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 123 :: Creating list of strings for rows in file...
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: parse_csv_data :: 127 :: List successfully created!
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: process_covid_csv_data :: 135 :: Beginning to process csv covid data...
+03/08/2022 01:28:23 PM :: root :: INFO :: process_covid_csv_data :: 156 :: Covid csv data successfully split, interated through, and organised into lists.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 167 :: Last 7 day cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 171 :: Current hospital cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 181 :: Total deaths calculated.
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 113 :: Opening and reading .csv file...
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: parse_csv_data :: 123 :: Creating list of strings for rows in file...
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: parse_csv_data :: 127 :: List successfully created!
+03/08/2022 01:28:23 PM :: __main__ :: DEBUG :: process_covid_csv_data :: 135 :: Beginning to process csv covid data...
+03/08/2022 01:28:23 PM :: root :: INFO :: process_covid_csv_data :: 156 :: Covid csv data successfully split, interated through, and organised into lists.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 167 :: Last 7 day cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 171 :: Current hospital cases calculated.
+03/08/2022 01:28:23 PM :: __main__ :: INFO :: process_covid_csv_data :: 181 :: Total deaths calculated.
+03/08/2022 01:28:23 PM :: werkzeug :: WARNING :: _log :: 113 ::  * Debugger is active!
+03/08/2022 01:28:23 PM :: werkzeug :: INFO :: _log :: 113 ::  * Debugger PIN: 327-497-272
